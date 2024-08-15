@@ -1,0 +1,10 @@
+baseURL = 'https://cybercampus-se.github.io/'
+languageCode = 'en'
+title = 'Royal Hacking Lab'
+theme = 'hugo-book'
+
+[params]
+    BookLogo = 'logo.png'
+
+[markup.goldmark.renderer]
+    unsafe = true
