@@ -30,17 +30,12 @@ Below is a list of available research topics.
 
 - [LLM Hacking (Prompt Injection)](open/24-08-llm-prompt-injection)
 - [Discovering Vulnerabilities in GPTs and Plugins](open/24-09-llm-hacking-gpts)
+- [Discovering Software Vulnerabilities with LLMs](open/24-16-llm-hacking-software)
 - [Identifying Malicious Models](open/24-10-llm-malicious-models)
 - [Escaping RLHF Protections](open/24-11-llm-escaping-rlhf-protection)
 - [Building Air-Gapped LLMs](open/24-12-llm-air-gap)
 
 ## Interesting Topics
 
-You are also welcome to propose your own research topic.
-- We are particularly open to original ideas involving LLMs
+You are also welcome to propose your own research topic. We are particularly open to original ideas involving LLMs
 
-Tips: How to prepare a proposal
-- Read the literature
-- Select a few of studies to replicate
-- Think of how to improve what you implemented
-- Write your proposal

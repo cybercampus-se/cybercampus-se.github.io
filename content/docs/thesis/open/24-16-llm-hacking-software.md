@@ -105,8 +105,9 @@ This research proposal outlines a comprehensive study on the application of Larg
 2. Documentation and literature on Large Language Models, including GPT-3, GPT-4, and Codex.
 3. Existing studies on the application of AI and LLMs in cybersecurity.
 4. Ethical guidelines and discussions on the use of AI in security-sensitive applications.
-5. [Llm agents can autonomously hack websites](https://arxiv.org/abs/2402.06664)
+5. [LLM agents can autonomously hack websites](https://arxiv.org/abs/2402.06664)
 6. [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144)
 7. [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
 8. [Harnessing Large Language Models for Software Vulnerability Detection: A Comprehensive Benchmarking Study](https://arxiv.org/abs/2405.15614)
+9. [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
 

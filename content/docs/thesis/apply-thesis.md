@@ -18,7 +18,7 @@ title: "Thesis Application"
   - **Subject:** [Thesis] Application - \<Thesis Topic\>
   - **TO:** hackinglab@cybercampus.se
   - **Body:** Thesis application form and [resource application form](/docs/resources/apply-resource)
-  - **Attachments:** Your CV, your proposal
+  - **Attachments:** Your CV and your proposal
 {{< /hint >}}
 
 ## Thesis Application Form Template
@@ -31,7 +31,7 @@ title: "Thesis Application"
 - **Thesis ID:**
 - **Expected start of the study:** 2030-01-01 (If you are flexible state how much flexible you are)
 - **Expected end of the study:** 2030-01-01 (If you are flexible state how much flexible you are)
-- **Study hours:** 20 hours (How many hours per week on avarage you will work for this study)
+- **Workload:** 20 hours (How many hours per week on average you will work for this study)
 - **Peer-review publication:** Yes/No (If you will publish your thesis in a journal)
 - **Suggested Supervisor:** Alice Johnson - "alice@example.se"
 - **Supervisor approval (for the proposal):** Yes/No
@@ -39,6 +39,13 @@ title: "Thesis Application"
 - **IMPORTANT:** Supervisor should be holding a PhD (PhD students can be co-supervisor)
 - **IMPORTANT:** If you are a bachelor's student, you can apply as a pair (2 students)
 {{< /hint >}}
+
+## Preparing proposal
+
+- Read the literature
+- Select a few of studies to replicate
+- Think of how to improve what you implemented
+- Write your proposal
 
 ## Interviews
 
@@ -58,11 +65,13 @@ title: "Thesis Application"
 
 ## Recommendations
 
+- Students are strongly encouraged to begin research on the interested topic at least 6 months before the expected start of the study.
 - It is strongly recommended that students apply at least 3 months before the expected start of the study
 - It is strongly recommended that students apply for job postings that they have **experience**
   - You are not expected to be an expert, but you are expected to be experienced
   - If you do not have experience, you can prepare yourself in a few months and then apply
-  - For a vulnerability research studies (i.e., IoT hacking) you need to have experience hacking an IoT device
+  - For a vulnerability research study (i.e., IoT hacking) you need to have experience hacking an IoT device
+  - For an LLM security study (i.e., Hacking with LLM) you need to have experience data sanitization (reducing token counts), fine tuning, LangChain, LangGraph, LLM assistant APIs, etc.
 - Students should complete the preliminary work before the thesis work begins
   - **IMPORTANT:** The proposal must include the preliminary work, for example
   - For a vulnerability research studies (i.e., ethical hacking) you need to include a complete threat model or attacks that will be performed
