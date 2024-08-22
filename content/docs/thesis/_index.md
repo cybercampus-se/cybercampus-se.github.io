@@ -22,9 +22,9 @@ Below is a list of available research topics.
 
 ## Forensics
 
-- [Memory forensics](open/24-01-memory-forensics)
+- [Memory Forensics](open/24-01-memory-forensics)
 - [National Cyber Threat Intelligence](open/24-04-cyber-threat-intelligence)
-- [Application Forensic](open/24-05-application-forensics)
+- [Application Forensics](open/24-05-application-forensics)
 
 ## Artificial Intelligence
 
