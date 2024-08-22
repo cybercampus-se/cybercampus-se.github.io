@@ -104,6 +104,7 @@ title: "Resource application"
   - reporting discovered vulnerabilities to the lab: Yes/No
   - attributing to our lab in vulnerability disclosures (CVE submissions)
   - acknowledging our lab and our supervisor in your thesis reports and publications: Yes/No 
+  - reporting the Diva URL of the published thesis
 
 {{< hint info >}}
 ### Recommendations
