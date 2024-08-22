@@ -1,7 +1,8 @@
 ---
+title: Ethics
+description: The Hacking Lab's approach to ethics.
 weight: 10
 bookToc: false
-title: "Ethics"
 bookHidden: false
 ---
 

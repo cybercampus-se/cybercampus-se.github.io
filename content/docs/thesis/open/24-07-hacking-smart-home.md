@@ -1,6 +1,7 @@
 ---
+title: Smart Home Hacking
+description: The proliferation of Internet of Things (IoT) devices has revolutionized smart home technology, providing enhanced convenience and automation. However, the integration of these devices poses significant cybersecurity risks due to potential vulnerabilities that can be exploited by malicious actors. This research aims to conduct a comprehensive vulnerability assessment of smart homes by creating a testbed using IoT devices in our controlled Hacking Lab environment. The study will identify security weaknesses, evaluate their impacts, and propose mitigation strategies to enhance the security of smart home ecosystems.
 weight: 2
-title: "Smart Home Hacking"
 bookFlatSection: true
 bookHidden: true
 ---

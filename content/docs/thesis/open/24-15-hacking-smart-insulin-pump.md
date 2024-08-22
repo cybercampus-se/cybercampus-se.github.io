@@ -1,6 +1,7 @@
 ---
+title: Hacking Smart Insulin Pumps
+description: Smart insulin pumps represent a significant advancement in diabetes management, providing precise and automated insulin delivery to patients. However, their integration with wireless communication technologies exposes them to cybersecurity risks that can have severe consequences for patient health. This research aims to identify and analyze vulnerabilities in smart insulin pumps, assess their potential impacts, and propose robust mitigation strategies. By enhancing the security of these medical devices, the study seeks to protect patient safety and ensure the reliable operation of smart insulin pumps.
 weight: 2
-title: "Hacking Smart Insulin Pumps"
 bookFlatSection: true
 bookHidden: true
 ---

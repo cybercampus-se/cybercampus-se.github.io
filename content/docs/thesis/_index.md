@@ -1,7 +1,8 @@
 ---
+title: Thesis topics
+description: Find available research topics.
 weight: 2
 bookFlatSection: true
-title: "Thesis topics"
 ---
 
 # Thesis topics

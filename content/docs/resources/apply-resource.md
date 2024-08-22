@@ -1,7 +1,8 @@
 ---
+title: Resource application
+description: Read how to create and submit your resource application.
 weight: 2
 bookFlatSection: true
-title: "Resource application"
 ---
 
 # Resource Application

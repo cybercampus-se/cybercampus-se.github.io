@@ -1,6 +1,7 @@
 ---
+title: LLM Malicious Models
+description: Large Language Models (LLMs) have transformed the landscape of natural language processing (NLP) and artificial intelligence (AI). Platforms like HuggingFace provide a repository for sharing and accessing a wide variety of LLMs. However, the open nature of these repositories poses significant security risks, including the distribution of malicious models. This research aims to identify and analyze malicious models within LLM repositories, focusing on HuggingFace. The study will develop methodologies for detecting malicious models, assess their impact, and propose strategies to enhance the security of LLM repositories.
 weight: 2
-title: "LLM Malicious Models"
 bookFlatSection: true
 bookHidden: true
 ---

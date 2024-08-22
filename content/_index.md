@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Welcome to the Royal Hacking Lab. Find information about current research projects and available resources.
 type: docs
 bookToc: false
 ---

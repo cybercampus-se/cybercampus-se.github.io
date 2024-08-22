@@ -1,6 +1,7 @@
 ---
+title: LLM Hacking GPTs
+description: Large Language Models (LLMs) like GPT-3 and GPT-4 have transformed the landscape of natural language processing, providing powerful tools for a wide range of applications. However, their complexity and widespread use also present significant security challenges. This research aims to identify and analyze vulnerabilities in GPT models and their associated plugins. By examining potential exploits and security weaknesses, the study will provide insights into improving the security and robustness of these models and their extensions.
 weight: 2
-title: "LLM Hacking GPTs"
 bookFlatSection: true
 bookHidden: true
 ---

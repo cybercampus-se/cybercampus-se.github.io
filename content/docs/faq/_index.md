@@ -1,7 +1,8 @@
 ---
+title: FAQ
+description: Frequently asked questions along with our answers.
 weight: 5
 bookFlatSection: true
-title: "FAQ"
 bookToc: false
 ---
 

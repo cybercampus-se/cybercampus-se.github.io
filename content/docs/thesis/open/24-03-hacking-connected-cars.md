@@ -1,6 +1,7 @@
 ---
+title: Connected Car Hacking
+description: The integration of internet connectivity in modern automobiles has transformed them into sophisticated connected cars, enhancing user experience and functionality. However, this advancement has also introduced a plethora of cybersecurity challenges. This research aims to conduct a comprehensive vulnerability assessment of connected cars, identifying potential security weaknesses, evaluating their impacts, and proposing mitigation strategies to enhance the security and resilience of these vehicles.
 weight: 2
-title: "Connected Car Hacking"
 bookFlatSection: true
 bookHidden: true
 ---

@@ -1,6 +1,7 @@
 ---
+title: Hacking with LLMs
+description: The rapid advancement in artificial intelligence, particularly in the development of Large Language Models (LLMs) like GPT-3, GPT-4, and beyond, has opened new possibilities in various fields, including cybersecurity. These models, originally designed for natural language processing tasks, have shown potential in automating and enhancing cybersecurity processes, such as vulnerability discovery and exploitation. This research aims to explore the application of LLMs in the automated discovery and exploitation of software vulnerabilities. By leveraging the advanced pattern recognition and language generation capabilities of LLMs, this study seeks to assess the effectiveness of these models in identifying security flaws in software, generating exploit code, and potentially aiding in the creation of more secure software development practices.
 weight: 2
-title: "Hacking with LLMs"
 bookFlatSection: true
 bookHidden: true
 ---

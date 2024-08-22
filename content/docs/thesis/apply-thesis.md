@@ -1,6 +1,7 @@
 ---
+title: Thesis Application
+description: How to create and submit your thesis application.
 weight: 1
-title: "Thesis Application"
 # bookToc: false
 ---
 

@@ -1,6 +1,7 @@
 ---
+title: Hacking Connected Charging Stations
+description: The widespread adoption of electric vehicles (EVs) has led to the rapid deployment of connected charging stations. These stations are integral to supporting the EV ecosystem, offering convenience and accessibility to users. However, their connectivity also presents significant cybersecurity challenges. This research aims to identify and analyze vulnerabilities in connected charging stations, assess their potential impacts, and propose robust mitigation strategies. By enhancing the security of these critical infrastructures, this study seeks to protect against potential cyber threats that could disrupt the EV charging network and compromise user safety.
 weight: 2
-title: "Hacking Connected Charging Stations"
 bookFlatSection: true
 bookHidden: true
 ---

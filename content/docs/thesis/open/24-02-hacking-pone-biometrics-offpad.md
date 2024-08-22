@@ -1,6 +1,7 @@
 ---
+title: Pone Biometrics Offpad
+description: The advent of passwordless authentication mechanisms, such as the Offpad fingerprint-based authentication solution by PONE Biometrics, represents a significant leap in cybersecurity. Offpad, certified by the Fast Identity Online (FIDO) Alliance, aims to offer enhanced security by replacing traditional passwords with biometric passkeys. This research aims to conduct a comprehensive vulnerability assessment of the Offpad device, identifying potential security weaknesses and proposing enhancements to bolster its robustness against cyber threats.
 weight: 2
-title: "Pone Biometrics Offpad"
 bookFlatSection: true
 bookHidden: true
 ---

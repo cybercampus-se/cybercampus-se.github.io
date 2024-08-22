@@ -1,6 +1,7 @@
 ---
+title: Cyber Threat Intelligence
+description: The increasing complexity and frequency of cyber threats necessitate advanced, proactive defense mechanisms. This research proposes to enhance Sweden's national cyber threat intelligence capabilities by integrating AI-based technologies. The study aims to explore, develop, and implement AI-driven solutions for real-time threat detection, analysis, and mitigation, thereby strengthening Sweden's cyber resilience.
 weight: 2
-title: "Cyber Threat Intelligence"
 bookFlatSection: true
 bookHidden: true
 ---

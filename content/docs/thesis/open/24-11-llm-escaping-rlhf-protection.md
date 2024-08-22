@@ -1,6 +1,7 @@
 ---
+title: LLM Escaping RLHF Protections
+description: Large Language Models (LLMs) such as GPT-3 and GPT-4, often enhanced by Reinforcement Learning from Human Feedback (RLHF), have become integral tools in natural language processing. RLHF aims to improve the safety and quality of LLM outputs by aligning them with human values and reducing harmful behaviors. However, adversaries might find ways to circumvent these protections, posing significant security risks. This research aims to identify methods of escaping RLHF protections in LLMs, evaluate the impact of such breaches, and propose mitigation strategies to strengthen the resilience of these models against adversarial manipulation.
 weight: 2
-title: "LLM Escaping RLHF Protections"
 bookFlatSection: true
 bookHidden: true
 ---

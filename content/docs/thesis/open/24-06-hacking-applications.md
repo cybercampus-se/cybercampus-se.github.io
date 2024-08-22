@@ -1,6 +1,7 @@
 ---
+title: Application Hacking
+description: The widespread use of mobile applications in everyday activities, such as banking, healthcare, public transportation, and scheduling, presents significant cybersecurity challenges. This research aims to conduct a comprehensive vulnerability assessment of popular mobile applications used in Sweden, including BankID, Alltid öppet, SL, and Tempus. The study will identify potential security weaknesses, evaluate their impacts, and propose mitigation strategies to enhance the security of these applications and protect user data.
 weight: 2
-title: "Application Hacking"
 bookFlatSection: true
 bookHidden: true
 ---

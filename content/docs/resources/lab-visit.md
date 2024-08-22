@@ -1,6 +1,7 @@
 ---
+title: Lab visit
+description: Read how to create and submit your visit application.
 weight: 3
-title: "Lab visit"
 bookToc: false
 ---
 

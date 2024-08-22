@@ -1,6 +1,7 @@
 ---
+title: Application Forensics
+description: With the widespread adoption of desktop and mobile applications such as BankID, Discord, Steam, and Stremio, the need for comprehensive digital forensics becomes increasingly critical. These applications handle sensitive data, making them attractive targets for cybercriminals. This research aims to investigate forensic methodologies for extracting, analyzing, and preserving evidence from popular desktop and mobile applications, focusing on identifying potential security vulnerabilities and enhancing forensic capabilities.
 weight: 2
-title: "Application Forensics"
 bookFlatSection: true
 bookHidden: true
 ---

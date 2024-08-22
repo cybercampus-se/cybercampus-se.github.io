@@ -5,6 +5,7 @@ theme = 'hugo-book'
 
 [params]
     BookLogo = 'logo.png'
+    description = 'Welcome to the Royal Hacking Lab. Find information about current research projects and available resources.'
 
 [markup.goldmark.renderer]
     unsafe = true
