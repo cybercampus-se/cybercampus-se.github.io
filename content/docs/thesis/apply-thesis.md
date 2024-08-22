@@ -35,6 +35,7 @@ title: "Thesis Application"
 - **Peer-review publication:** Yes/No (If you will publish your thesis in a journal)
 - **Suggested Supervisor:** Alice Johnson - "alice@example.se"
 - **Supervisor approval (for the proposal):** Yes/No
+- **Confirmation:** I have read and understood this page. The thesis topic I applied for is suitable for my qualifications.
 {{< hint warning >}}
 - **IMPORTANT:** Supervisor should be holding a PhD (PhD students can be co-supervisor)
 - **IMPORTANT:** If you are a bachelor's student, you can apply as a pair (2 students)
