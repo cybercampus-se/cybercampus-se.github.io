@@ -29,10 +29,10 @@ Below is a list of available research topics.
 
 ## Artificial Intelligence
 
-- [LLM Hacking (Prompt Injection)](open/24-08-llm-prompt-injection)
-- [Discovering Vulnerabilities in GPTs and Plugins](open/24-09-llm-hacking-gpts)
-- [Discovering Software Vulnerabilities with LLMs](open/24-16-llm-hacking-software)
-- [Identifying Malicious Models](open/24-10-llm-malicious-models)
+- [LLM Hacking (Prompt Injection)](open/24-08-llm-prompt-injection) {{< started >}}
+- [Discovering Vulnerabilities in GPTs and Plugins](open/24-09-llm-hacking-gpts) {{< started >}}
+- [Discovering Software Vulnerabilities with LLMs](open/24-16-llm-hacking-software) {{< started >}}
+- [Identifying Malicious Models](open/24-10-llm-malicious-models) {{< started >}}
 - [Escaping RLHF Protections](open/24-11-llm-escaping-rlhf-protection)
 - [Building Air-Gapped LLMs](open/24-12-llm-air-gap)
 
