@@ -4,6 +4,7 @@ description: The widespread adoption of electric vehicles (EVs) has led to the r
 weight: 2
 bookFlatSection: true
 bookHidden: true
+draft: true
 ---
 
 # Hacking Connected Charging Stations
@@ -107,3 +108,4 @@ This research aims to enhance the security of connected charging stations for el
 3. Documentation on vulnerability assessment methodologies and penetration testing techniques.
 4. Existing studies on mitigation strategies and best practices for secure deployment of connected systems.
 5. [Systematic survey of advanced metering infrastructure security: Vulnerabilities, attacks, countermeasures, and future vision](https://www.sciencedirect.com/science/article/pii/S0167739X22002254)
+6. [Threat models for vulnerability analysis of IoT devices for Manipulation of Demand attacks](https://ieeexplore.ieee.org/abstract/document/10205781/)

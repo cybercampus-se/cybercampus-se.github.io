@@ -4,6 +4,7 @@ description: Smart meters are critical components of modern smart grid infrastru
 weight: 2
 bookFlatSection: true
 bookHidden: true
+draft: true
 ---
 
 # Hacking Smart Meters
