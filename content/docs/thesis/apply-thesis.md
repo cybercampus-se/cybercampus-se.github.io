@@ -29,7 +29,7 @@ weight: 1
 - **Thesis program:** Computer Science
 - **University:** KTH Royal Institute of Technology
 - **Thesis topic:** Security analysis of ABC IoT devices
-- **Thesis ID:**
+- **Thesis ID:** (Empty if it is your proposal)
 - **Expected start of the study:** 2030-01-01 (If you are flexible state how much flexible you are)
 - **Expected end of the study:** 2030-01-01 (If you are flexible state how much flexible you are)
 - **Workload:** 20 hours (How many hours per week on average you will work for this study)
@@ -48,6 +48,9 @@ weight: 1
 - Select a few of studies to replicate
 - Think of how to improve what you implemented
 - Write your proposal
+- Note that: We provide description (pre-proposal) of our researc topics. 
+  - You should develop your own proposal. 
+  - It is just to learn what the research is about.
 
 ## Interviews
 
@@ -62,23 +65,25 @@ weight: 1
 
 ## Publications
 
-- Students who want to publish in a journal over others are prioritized
-- Publications are submitted to the journals that we approve
+- Students who want to publish in a conferences/journals over others are prioritized
+- Publications are submitted to the conferences/journals that we approve
 
 ## Recommendations
 
 - Students are strongly encouraged to begin research on the interested topic at least 6 months before the expected start of the study.
-- It is strongly recommended that students apply at least 3 months before the expected start of the study
-- It is strongly recommended that students apply for job postings that they have **experience**
+- It is strongly recommended that students apply at least 3 months before the expected start of the study.
+- It is strongly recommended that students apply for job postings that they have **experience**.
   - You are not expected to be an expert, but you are expected to be experienced
   - If you do not have experience, you can prepare yourself in a few months and then apply
   - For a vulnerability research study (i.e., IoT hacking) you need to have experience hacking an IoT device
-  - For an LLM security study (i.e., Hacking with LLM) you need to have experience data sanitization (reducing token counts), fine tuning, LangChain, LangGraph, LLM assistant APIs, etc.
-- Students should complete the preliminary work before the thesis work begins
+  - For an LLM security study (i.e., Hacking with LLM) you need to have experience data sanitization (reducing token counts), fine tuning, LangChain, LangGraph, LLM assistant APIs, AI agents, Retrieval Augmented Generation (RAG), etc.
+- Students should complete the preliminary work before the thesis work begins.
   - **IMPORTANT:** The proposal must include the preliminary work, for example
   - For a vulnerability research studies (i.e., ethical hacking) you need to include a complete threat model or attacks that will be performed
   - For other studies the data should be collected
-- The work you perform in our lab must be of a quality that can be published in a journal
+- The work you perform in our lab must be of a quality that can be published in a journal.
+- We usually collaborate with companies in our research
+  - If you develop your own porposal we also suggest you to find a company to collaborate
 - You are expected to spend at least 20 hours per week on this work during the study period. However, based on our experience, we recommend that you devote your full focus and time entirely to your thesis work.
 
 ## Opportunities
