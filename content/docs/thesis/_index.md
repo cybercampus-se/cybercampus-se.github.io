@@ -17,8 +17,8 @@ Below is a list of available research topics.
 - [Connected Car Hacking](open/24-03-hacking-connected-cars)
 - [Smart Home Hacking](open/24-07-hacking-smart-home)
 - [Mobile App Hacking](open/24-06-hacking-applications)
-- [IoT Hacking - Connected Charging Stations](open/24-13-hacking-connected-charging-stations)
-- [IoT Hacking - Smart Meter](open/24-14-hacking-smart-meters)
+- [IoT Hacking - Connected Charging Stations](open/24-13-hacking-connected-charging-stations) {{< suspended >}}
+- [IoT Hacking - Smart Meter](open/24-14-hacking-smart-meters) {{< suspended >}}
 - [IoT Hacking - Smart Insulin Pump](open/24-15-hacking-smart-insulin-pump)
 
 ## Forensics
@@ -29,10 +29,10 @@ Below is a list of available research topics.
 
 ## Artificial Intelligence
 
-- [LLM Hacking (Prompt Injection)](open/24-08-llm-prompt-injection) {{< started >}}
-- [Discovering Vulnerabilities in GPTs and Plugins](open/24-09-llm-hacking-gpts) {{< started >}}
-- [Discovering Software Vulnerabilities with LLMs](open/24-16-llm-hacking-software) {{< started >}}
-- [Identifying Malicious Models](open/24-10-llm-malicious-models) {{< started >}}
+- [LLM Hacking (Prompt Injection)](open/24-08-llm-prompt-injection)
+- [Discovering Vulnerabilities in GPTs and Plugins](open/24-09-llm-hacking-gpts)
+- [Discovering Software Vulnerabilities with LLMs](open/24-16-llm-hacking-software)
+- [Identifying Malicious Models](open/24-10-llm-malicious-models)
 - [Escaping RLHF Protections](open/24-11-llm-escaping-rlhf-protection)
 - [Building Air-Gapped LLMs](open/24-12-llm-air-gap)
 
