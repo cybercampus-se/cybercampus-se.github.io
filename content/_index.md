@@ -28,4 +28,4 @@ Find our [IoT devices](docs/resources/#iot-devices) along with [hacking tools](d
 
 ## [Collaboration](docs/contact/)
 
-If you are a **company** or a **Ph.D. student**, feel free to [contact](docs/contact/) us for research collaboration.
+If you are a **company** or a **Ph.D. student**, feel free to [contact](docs/contact/) us for research [collaboration](docs/contact/collaborators).
