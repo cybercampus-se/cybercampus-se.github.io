@@ -92,3 +92,5 @@ This research aims to enhance Sweden’s national cyber threat intelligence capa
 1. Literature on cyber threat intelligence and national cybersecurity frameworks.
 2. Documentation on AI technologies and their applications in cybersecurity.
 3. Research papers and case studies on the integration of AI into national CTI frameworks.
+4. [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/html/2407.16928)
+5. [GPT-Powered MITRE ATT&CK Copilot](https://web.mitre-engenuity.org/hubfs/Cyber/Center%20for%20Threat%20Informed%20Defense/APAC%202024/15%20-%20Ng%20-%20GPT-Powered%20MITRE%20ATTACK%20CoPilot.pdf)

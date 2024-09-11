@@ -111,4 +111,7 @@ This research proposal outlines a comprehensive study on the application of Larg
 7. [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
 8. [Harnessing Large Language Models for Software Vulnerability Detection: A Comprehensive Benchmarking Study](https://arxiv.org/abs/2405.15614)
 9. [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
-
+10. [Using AI for Offensive Security](https://cloudsecurityalliance.org/artifacts/using-ai-for-offensive-security)
+11. [Challenging Machine Learning Algorithms in Predicting Vulnerable JavaScript Functions](https://arxiv.org/html/2405.07213v1)
+12. [Large Language Model for Vulnerability Detection: Emerging Results and Future Directions](https://arxiv.org/abs/2401.15468)
+13. [OWASP LLM Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Vulnerable-LLM-Applications) <- **Train yourself**
