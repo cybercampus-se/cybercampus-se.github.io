@@ -19,7 +19,7 @@ Below is a list of available research topics.
 - [Mobile App Hacking](open/24-06-hacking-applications)
 <!-- - [IoT Hacking - Connected Charging Stations](open/24-13-hacking-connected-charging-stations) {{< suspended >}} -->
 <!-- - [IoT Hacking - Smart Meter](open/24-14-hacking-smart-meters) {{< suspended >}} -->
-- [IoT Hacking - Smart Insulin Pump](open/24-15-hacking-smart-insulin-pump)
+<!-- - [IoT Hacking - Smart Insulin Pump](open/24-15-hacking-smart-insulin-pump) -->
 
 ## Forensics
 

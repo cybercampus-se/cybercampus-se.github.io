@@ -34,8 +34,8 @@ weight: 1
 - **Expected end of the study:** 2030-01-01 (If you are flexible state how much flexible you are)
 - **Workload:** 20 hours (How many hours per week on average you will work for this study)
 - **Peer-review publication:** Yes/No (If you will publish your thesis in a journal)
-- **Suggested Supervisor:** Alice Johnson - "alice@example.se"
-- **Supervisor approval (for the proposal):** Yes/No
+- **Suggested Supervisor:** (Empty if you do not have supervisor)
+- **Supervisor approval (for the proposal):** Yes/No (No if you do not have supervisor)
 - **Confirmation:** I have read and understood this page. The thesis topic I applied for is suitable for my qualifications.
 {{< hint warning >}}
 - **IMPORTANT:** Supervisor should be holding a PhD (PhD students can be co-supervisor)
@@ -63,15 +63,10 @@ weight: 1
 - If we are unable to supervise you (e.g. if the quota is exceeded), we can inform you of possible supervisors
 - You can then use your proposal to apply for another supervisor
 
-## Publications
-
-- Students who want to publish in a conferences/journals over others are prioritized
-- Publications are submitted to the conferences/journals that we approve
-
 ## Recommendations
 
-- Students are strongly encouraged to begin research on the interested topic at least 6 months before the expected start of the study.
-- It is strongly recommended that students apply at least 3 months before the expected start of the study.
+### Quality
+
 - It is strongly recommended that students apply for job postings that they have **experience**.
   - You are not expected to be an expert, but you are expected to be experienced
   - If you do not have experience, you can prepare yourself in a few months and then apply
@@ -81,10 +76,21 @@ weight: 1
   - **IMPORTANT:** The proposal must include the preliminary work, for example
   - For a vulnerability research studies (i.e., ethical hacking) you need to include a complete threat model or attacks that will be performed
   - For other studies the data should be collected
-- The work you perform in our lab must be of a quality that can be published in a journal.
 - We usually collaborate with companies in our research
   - If you develop your own porposal we also suggest you to find a company to collaborate
-- You are expected to spend at least 20 hours per week on this work during the study period. However, based on our experience, we recommend that you devote your full focus and time entirely to your thesis work.
+
+### Publication
+
+- The work you perform in our lab must be of a quality that can be published in a journal
+- Students who want to publish in a conferences/journals over others are prioritized
+- Publications are submitted to the conferences/journals that we approve
+
+### Timeline
+
+- Students are strongly encouraged to begin research on the interested topic at least 6 months before the expected start of the study.
+- It is strongly recommended that students apply at least 3 months before the expected start of the study.
+- You are expected to spend at least 20 hours per week on our work during the study period. However, based on our experience, we recommend that you devote your full focus and time entirely to your thesis work.
+- We can only provide a tentative timeline for every project that is based on our experience, but the exact timeline depends on the qualifications and performance of the student.
 
 ## Opportunities
 

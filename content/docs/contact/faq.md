@@ -32,6 +32,12 @@ We usually book a lab visit in 2 weeks.
 {{< /details >}}
 <br>
 
+{{< details "Why am I not getting response for my application?" >}}
+If you are not getting response in 4 weeks, you most probably did not apply properly, For example, you did not attach your proposal or CV.
+{{< /details >}}
+<br>
+
+
 {{< details "I would like to hack a device that is not on your list of available devices" >}}
 We would first request that you look over the [list of exisiting devices]({{< ref "/docs/resources/#iot-devices" >}} "List of devices") and see if you can find *an equivalent device*. If you cannot, you can [request a device purchase]({{< ref "/docs/resources/apply-resource" >}} "Request a device purchase").
 {{< /details >}}
@@ -39,5 +45,15 @@ We would first request that you look over the [list of exisiting devices]({{< re
 
 {{< details "How many proposals can I submit for a thesis?" >}}
 Note that due to high number of submission, we are able to evaluate only one submission per student during his/her education career.
+{{< /details >}}
+<br>
+
+{{< details "Is master's work is paid job?" >}}
+Our master's thesis studies are not a paid job unless otherwise stated.
+{{< /details >}}
+<br>
+
+{{< details "Do you require Swedish citizenship?" >}}
+Our collaborators may require Swedish citizenship. However, we do not include this information on pre-proposals. That's why feel free to send your proposal. If we like it we can start a seperate study with you.
 {{< /details >}}
 <br>

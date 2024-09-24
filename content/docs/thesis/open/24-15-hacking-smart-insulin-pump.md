@@ -4,6 +4,7 @@ description: Smart insulin pumps represent a significant advancement in diabetes
 weight: 2
 bookFlatSection: true
 bookHidden: true
+draft: true
 ---
 
 # Hacking Smart Insulin Pumps
