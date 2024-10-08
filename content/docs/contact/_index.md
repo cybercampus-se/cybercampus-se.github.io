@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About us
 description: Our history and current state of affairs. Also find our email and how to navigate to the lab.
 weight: 7
 bookFlatSection: true

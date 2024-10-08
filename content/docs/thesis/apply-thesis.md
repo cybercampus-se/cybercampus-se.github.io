@@ -1,5 +1,5 @@
 ---
-title: Thesis Application
+title: Thesis application
 description: How to create and submit your thesis application.
 weight: 1
 # bookToc: false
@@ -48,9 +48,9 @@ weight: 1
 - Select a few of studies to replicate
 - Think of how to improve what you implemented
 - Write your proposal
-- Note that: We provide description (pre-proposal) of our researc topics. 
-  - You should develop your own proposal. 
-  - It is just to learn what the research is about.
+- Note that: We provide description (pre-proposal) of our researc topics
+  - It is just to learn what the research is about
+  - You should develop your own proposal
 
 ## Interviews
 
@@ -96,4 +96,5 @@ weight: 1
 
 - Some students are offered to have a seat in our laboratory
   - Students are selected based on various criteria (full-time study or publication desire)
-- Working in the lab provides a unique mentoring service
+- Working in the lab provides a unique mentoring service (e.g., weekly meetings)
+- Help find PhD position/internship/first job

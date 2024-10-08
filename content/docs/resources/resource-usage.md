@@ -1,5 +1,5 @@
 ---
-title: Resources Usage
+title: Resources usage
 description: How to handle resources at the Hacking Lab.
 weight: 9
 bookToc: false
