@@ -284,7 +284,7 @@ Below are other items, that don't fit into any other table.
 | Books         | Professional Penetration Testing                                                                                                    | 1        | 1x Available           |
 | Books         | The Hacker Playbook 2: Practical Guide to Penetration Testing                                                                       | 1        | 1x Available           |
 | Books         | Wireless Communications Network and Systems                                                                                         | 1        | 1x Borrowed            |
-| Keys          | Keys of the Hacking Lab                                                                                                             | 8        | 1x Available, 10x Used |
+| Keys          | Keys of the Hacking Lab                                                                                                             | 11       | 1x Available, 10x Used |
 | Other Devices | X-ray machine                                                                                                                       | 1        | 1x Used in Lab         |
 | TV            | Samsung 65inch 4K TV                                                                                                                | 1        | 1x Available           |
 | TV            | Samsung, white 1080p TV                                                                                                             | 1        |                        |
