@@ -14,7 +14,7 @@ Below is a list of IoT devices that you can borrow to hack.
 | Category     | Name                                                                   | Quantity | Availability              | Thesis                                                                                              |
 |--------------|------------------------------------------------------------------------|----------|---------------------------|-----------------------------------------------------------------------------------------------------|
 | ICS          | AS-Interface, Profibus, DP Gateway with PLC (AC1365)                   | 1        | 1x Available              |                                                                                                     |
-| ICS          | Logic Module, Siemens LOGO! 12/24 RCE - 6ED1052-1MD08-0BA0             | 1        | 1x Available              |                                                                                                     |
+| ICS          | Logic Module, Siemens                                                  | 1        | 1x Available              |                                                                                                     |
 | ICS          | RTU, Siemens SICAM CMIC                                                | 1        | Unknown                   | [DiVA](https://www.diva-portal.org/smash/get/diva2:1477589/FULLTEXT01.pdf)                          |
 | ICS          | Startkit CPU 1212C + KTP400 Basic Siemens S7-1200 - 6AV6651-7KA02-3AA4 | 1        | 1x Available              |                                                                                                     |
 | IoT Gateways | IoKey AIK001 Wireless IoT Gateway                                      | 1        | 1x Available              |                                                                                                     |
@@ -267,39 +267,39 @@ Below is a list of our available hardware, along with information about if they 
 
 Below are other items, that don't fit into any other table.
 
-| Category      | Name                                                                                                                                | Quantity | Availability          |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------|----------|-----------------------|
-| Books         | 4G LTE / LTE Advanced for Mobile Broadband                                                                                          | 1        | Available             |
-| Books         | Analysis Of Evidence - How to do things with facts based on Wigmore's Science of Judicial Proof                                     | 1        | Available             |
-| Books         | Basic Security Testing with Kali Linux 2                                                                                            | 1        | Missing               |
-| Books         | Ethical Hacking and Penetration Testing Guide                                                                                       | 1        | Missing               |
-| Books         | Gray Hat Hacking: The Ethical Hacker’s Handbook                                                                                     | 1        | 1x Available          |
-| Books         | Hacking and Penetration Testing                                                                                                     | 1        | Missing               |
-| Books         | IoT Penetration Testing Cookbook                                                                                                    | 1        | Missing               |
-| Books         | Kali Linux: An Ethical Hacker’s Cookbook                                                                                            | 1        | Missing               |
-| Books         | Machines of Loving Grace - The Quest for Common Ground Between Humans and Robots                                                    | 1        | Available             |
-| Books         | Penetration Testing: A Hands-On Introduction to Hacking                                                                             | 1        | Missing               |
-| Books         | Permanent Record                                                                                                                    | 1        | Available             |
-| Books         | Practical Malware Analysis: The Hands-On Guide to dissecting Malicious Software                                                     | 1        | 1x Available          |
-| Books         | Professional Penetration Testing                                                                                                    | 1        | 1x Available          |
-| Books         | The Hacker Playbook 2: Practical Guide to Penetration Testing                                                                       | 1        | 1x Available          |
-| Books         | Wireless Communications Network and Systems                                                                                         | 1        | 1x Borrowed           |
-| Keys          | Keys of the Hacking Lab                                                                                                             | 8        | 1xAvailable, 10x Used |
-| Other Devices | X-ray machine                                                                                                                       | 1        | 1x Used in Lab        |
-| TV            | Samsung 65inch 4K TV                                                                                                                | 1        | 1x Available          |
-| TV            | Samsung, white 1080p TV                                                                                                             | 1        |                       |
-| Theses        | A Bottom-Up Approach to Real-Time Search in Large Networks and Clouds - Misbah Uddin                                                | 1        | Available             |
-| Theses        | Bandwidth Limited Distributed Optimization with Applications to Networked Cyberphysical Systems - Sindri Magnússon                  | 1        | Available             |
-| Theses        | Bandwidth and Storage Allocation for Operator-Owned Content Management Systems - Valentino Pacifici                                 | 1        | Available             |
-| Theses        | Coexistance and Energy Efficiency in Wireless Networks - Ioannis Glaropoulus                                                        | 1        | Available             |
-| Theses        | Contributions to Performance Modeling and Management of Data Centers - Rerngvit Yanggratoke                                         | 1        | Available             |
-| Theses        | Cyber-security in Smart Grid Communication and Control - Ognjen Vuković                                                             | 1        | Available             |
-| Theses        | Data-driven Performance Prediction and Resource Allocation for Cloud Services - Rerngvit Yanggratoke                                | 1        | Available             |
-| Theses        | Distributed Processing of Visual Features in Wireless Sensor Networks - Emil Eriksson                                               | 1        | Available             |
-| Theses        | Opportunistic Networking: Mobility Modeling an Content Distribution - Ljubica Pajević                                               | 1        | Available             |
-| Theses        | Real-Time Search in Large Networks and Clouds - Misbah Uddin                                                                        | 1        | Available             |
-| Theses        | Resource Allocation in Operator-owned Content Delivery Systems - Valentino Pacifici                                                 | 1        | Available             |
-| Theses        | Secure and Privacy Preserving Urban Sensing Systems - Stylianos Gisdakis                                                            | 1        | Available             |
-| Theses        | Secure and Privacy Preserving Vehicular Communication Systems: Identity and Credential Management Infrastructure - Mohammed Khodaei | 1        | Available             |
-| Theses        | Spectral Efficiency and Fairness Maximization in Full-Duplex Cellular Networks - José Mairton Barros da Silva Júnior                | 1        | Available             |
-| Theses        | System Design for Opportunistic Networks - Sylvia Todorova Kouyoumdjieva                                                            | 1        | Available             |
+| Category      | Name                                                                                                                                | Quantity | Availability           |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------|
+| Books         | 4G LTE / LTE Advanced for Mobile Broadband                                                                                          | 1        | Available              |
+| Books         | Analysis Of Evidence - How to do things with facts based on Wigmore's Science of Judicial Proof                                     | 1        | Available              |
+| Books         | Basic Security Testing with Kali Linux 2                                                                                            | 1        | Missing                |
+| Books         | Ethical Hacking and Penetration Testing Guide                                                                                       | 1        | Missing                |
+| Books         | Gray Hat Hacking: The Ethical Hacker’s Handbook                                                                                     | 1        | 1x Available           |
+| Books         | Hacking and Penetration Testing                                                                                                     | 1        | Missing                |
+| Books         | IoT Penetration Testing Cookbook                                                                                                    | 1        | Missing                |
+| Books         | Kali Linux: An Ethical Hacker’s Cookbook                                                                                            | 1        | Missing                |
+| Books         | Machines of Loving Grace - The Quest for Common Ground Between Humans and Robots                                                    | 1        | Available              |
+| Books         | Penetration Testing: A Hands-On Introduction to Hacking                                                                             | 1        | Missing                |
+| Books         | Permanent Record                                                                                                                    | 1        | Available              |
+| Books         | Practical Malware Analysis: The Hands-On Guide to dissecting Malicious Software                                                     | 1        | 1x Available           |
+| Books         | Professional Penetration Testing                                                                                                    | 1        | 1x Available           |
+| Books         | The Hacker Playbook 2: Practical Guide to Penetration Testing                                                                       | 1        | 1x Available           |
+| Books         | Wireless Communications Network and Systems                                                                                         | 1        | 1x Borrowed            |
+| Keys          | Keys of the Hacking Lab                                                                                                             | 8        | 1x Available, 10x Used |
+| Other Devices | X-ray machine                                                                                                                       | 1        | 1x Used in Lab         |
+| TV            | Samsung 65inch 4K TV                                                                                                                | 1        | 1x Available           |
+| TV            | Samsung, white 1080p TV                                                                                                             | 1        |                        |
+| Theses        | A Bottom-Up Approach to Real-Time Search in Large Networks and Clouds - Misbah Uddin                                                | 1        | Available              |
+| Theses        | Bandwidth Limited Distributed Optimization with Applications to Networked Cyberphysical Systems - Sindri Magnússon                  | 1        | Available              |
+| Theses        | Bandwidth and Storage Allocation for Operator-Owned Content Management Systems - Valentino Pacifici                                 | 1        | Available              |
+| Theses        | Coexistance and Energy Efficiency in Wireless Networks - Ioannis Glaropoulus                                                        | 1        | Available              |
+| Theses        | Contributions to Performance Modeling and Management of Data Centers - Rerngvit Yanggratoke                                         | 1        | Available              |
+| Theses        | Cyber-security in Smart Grid Communication and Control - Ognjen Vuković                                                             | 1        | Available              |
+| Theses        | Data-driven Performance Prediction and Resource Allocation for Cloud Services - Rerngvit Yanggratoke                                | 1        | Available              |
+| Theses        | Distributed Processing of Visual Features in Wireless Sensor Networks - Emil Eriksson                                               | 1        | Available              |
+| Theses        | Opportunistic Networking: Mobility Modeling an Content Distribution - Ljubica Pajević                                               | 1        | Available              |
+| Theses        | Real-Time Search in Large Networks and Clouds - Misbah Uddin                                                                        | 1        | Available              |
+| Theses        | Resource Allocation in Operator-owned Content Delivery Systems - Valentino Pacifici                                                 | 1        | Available              |
+| Theses        | Secure and Privacy Preserving Urban Sensing Systems - Stylianos Gisdakis                                                            | 1        | Available              |
+| Theses        | Secure and Privacy Preserving Vehicular Communication Systems: Identity and Credential Management Infrastructure - Mohammed Khodaei | 1        | Available              |
+| Theses        | Spectral Efficiency and Fairness Maximization in Full-Duplex Cellular Networks - José Mairton Barros da Silva Júnior                | 1        | Available              |
+| Theses        | System Design for Opportunistic Networks - Sylvia Todorova Kouyoumdjieva                                                            | 1        | Available              |
