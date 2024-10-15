@@ -7,4 +7,4 @@ bookFlatSection: true
 
 # Found vulnerabilities
 
-We are proud to present that we have found a total of 45 CVE:s.
+We have found a total of 45 CVE:s.
