@@ -11,80 +11,80 @@ bookFlatSection: true
 
 Below is a list of IoT devices that you can borrow to hack.
 
-| Category     | Name                                                                   | Quantity | Availability              |
-|--------------|------------------------------------------------------------------------|----------|---------------------------|
-| ICS          | AS-Interface, Profibus, DP Gateway with PLC (AC1365)                   | 1        | 1x Available              |
-| ICS          | Logic Module, Siemens LOGO! 12/24 RCE - 6ED1052-1MD08-0BA0             | 1        | 1x Available              |
-| ICS          | RTU, Siemens SICAM CMIC                                                | 1        | Unknown                   |
-| ICS          | Startkit CPU 1212C + KTP400 Basic Siemens S7-1200 - 6AV6651-7KA02-3AA4 | 1        | 1x Available              |
-| IoT Gateways | IoKey AIK001 Wireless IoT Gateway                                      | 1        | 1x Available              |
-| IoT Gateways | IoT-startkit CloudRAIL.Box Set                                         | 1        | 1x Available              |
-| Smart Home   | Amazon Smart Plug                                                      | 1        | 1x Borrowed               |
-| Smart Home   | D-link DCS-5000L                                                       | 2        | 1x Available, 1x Borrowed |
-| Smart Home   | D-link DCS-932L                                                        | 1        | 1x Borrowed               |
-| Smart Home   | DLink WiFi Smart Plug                                                  | 1        | 1x Borrowed               |
-| Smart Home   | Dana Smart Lock V3                                                     | 2        | 2x Available              |
-| Smart Home   | Deltaco SH-DB01 (Doorbell)                                             | 1        | 1x Available              |
-| Smart Home   | Deltaco SH-IPC02 (Smart Camera)                                        | 2        | 1x Available, 1x Borrowed |
-| Smart Home   | E2 Classic Energy Monitor                                              | 1        | 1x Borrowed               |
-| Smart Home   | Echo Pop                                                               | 1        | 1x Available              |
-| Smart Home   | Eufy eufyCam 3 S330                                                    | 1        | 1x Available              |
-| Smart Home   | Glue Smart Lock                                                        | 2        | 1x Available, 1x Broken   |
-| Smart Home   | Jisiwei i3 Vacuum Cleaner                                              | 1        | 1x Available              |
-| Smart Home   | Meross Smart Elementtermostat Starter Kit                              | 1        | 1x Available              |
-| Smart Home   | Nedis Wi-Fi SmartLife Video Doorbell                                   | 1        | 1x Borrowed               |
-| Smart Home   | Nuki Bridge                                                            | 1        | 1x Available              |
-| Smart Home   | Nuki Opener                                                            | 1        | 1x Available              |
-| Smart Home   | Nuki Smart Lock 3.0                                                    | 1        | 1x Borrowed               |
-| Smart Home   | Ring Video Doorbell 3 Plus                                             | 1        | 1x Available              |
-| Smart Home   | Roborock S7 Vacuum Cleaner                                             | 1        | 1x Available              |
-| Smart Home   | Samsung Smart Fridge DA9719112A                                        | 1        | 1x Available              |
-| Smart Home   | Securitas Alarm System                                                 | 1        | 1x Available              |
-| Smart Home   | Sesame Smart Lock                                                      | 1        | 1x Available              |
-| Smart Home   | Sesame Wifi Acess Point                                                | 1        | 1x Available              |
-| Smart Home   | Shelly TRV                                                             | 1        | 1x Borrowed               |
-| Smart Home   | Sureflap IoT Cat Flap                                                  | 1        | 1x Available              |
-| Smart Home   | Sureflap Microchip 2-Pack                                              | 1        | 1x Available              |
-| Smart Home   | TPLink Smart WiFi Plug                                                 | 1        | 1x Borrowed               |
-| Smart Home   | Tado Radiator Thermostat V3+ Startpaket                                | 1        | 1x Available, 1x Borrowed |
-| Smart Home   | Tapo C200 Pan/Tilt Home Security Wi-Fi Camera                          | 2        | 1x Available, 1xBorrowed  |
-| Smart Home   | Telldus Smart Home StartUp Kit                                         | 1        | Missing                   |
-| Smart Home   | Trifo Ironpie m6 Vacuum Cleaner                                        | 1        | 1x Available              |
-| Smart Home   | Trixie Foderautomat TX9 Smart                                          | 1        | 1x Available              |
-| Smart Home   | Verisure AlarmSystem                                                   | 1        | 1x Borrowed               |
-| Smart Home   | Verisure Smart Lock Module                                             | 1        | 1x Available              |
-| Smart Home   | Wattle HCGATEWAYBASIC Boreas                                           | 1        | 1x Available              |
-| Smart Home   | Wattle SPL Touch                                                       | 1        | 1x Borrowed               |
-| Smart Home   | Xiaomi Mi Home Security Camera 360                                     | 2        | 1x Available, 1x Broken   |
-| Smart Home   | YI dome X camera                                                       | 1        | 1x Available              |
-| Smart Home   | Yale Doorman L3                                                        | 1        | 1x Borrowed               |
-| Smart Home   | Yale Doorman V2N                                                       | 1        | 1x Borrowed               |
-| Smart Home   | Ycoo Neo Maze Breaker                                                  | 1        | 1x Available              |
-| Smart Home   | Zigbee modul till Wattle SPL Touch                                     | 1        | 1x Missing                |
-| Smart Home   | iSmart Gate Cam                                                        | 2        | 1x Available, 1x Borrowed |
-| Smart Home   | iSmart Gate Pro Smart Garage Opener                                    | 1        | 1x Available              |
-| Smart Home   | iSmart Gate Wireless tilt sensor                                       | 1        | 1x Available              |
-| Smart Home   | mydlink HD Pan & Tilt Wi-Fi Camera DCS-8515LH                          | 1        | 1x Available              |
-| Transport    | AutoPi smart car dongle                                                | 5        | 4x Available, 1x Borrowed |
-| Transport    | AutoPi smart car power adapter                                         | 5        | 5x Available              |
-| Transport    | Connected Car - MG Marvel R LUX                                        | 1        | 1x Available              |
-| Transport    | DEFA Smart Alarm System                                                | 1        | 1x Available              |
-| Transport    | DJI Mini 2 Drönare                                                     | 1        | 1x Available              |
-| Transport    | Drone - Ryze Tello Boost Combo                                         | 1        | 1x Borrowed               |
-| Transport    | OBDII Dongle                                                           | 1        | 1x Borrowed               |
-| Transport    | Parrot Anafi drone                                                     | 1        | 1x Available              |
-| Transport    | Xiaomi M365 Scooter                                                    | 1        | 1x Available              |
-| Wearables    | Children’s smart watch                                                 | 1        | 1x Available              |
-| Wearables    | Forever CALL ME 2 KW-60 Smartwatch                                     | 1        | 1x Borrowed               |
-| Wearables    | Forever KW-300 (smart watch)                                           | 1        | 1x Available              |
-| Wearables    | Forever KW-50 Kids Watch                                               | 1        | 1x Borrowed               |
-| Wearables    | Garmin GPS Venu                                                        | 1        | 1x Borrowed               |
-| Wearables    | Garmin Vivoactive 4s                                                   | 1        | 1x Available              |
-| Wearables    | Hövding v3                                                             | 1        | 1x Available              |
-| Wearables    | Mikamax GPS Tracker Watch - Child                                      | 1        | 1x Available              |
-| Wearables    | Q13 Children’s Smart Watch                                             | 1        | 1x Available              |
-| Wearables    | SennHeiser Momentum 3 Wireless Headphones                              | 1        | 1x Available              |
-| Wearables    | XPLORA 3S Smart watch                                                  | 2        | 1x Available, 1x Borrowed |
+| Category     | Name                                                                   | Quantity | Availability              | Thesis                                                                                              |
+|--------------|------------------------------------------------------------------------|----------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| ICS          | AS-Interface, Profibus, DP Gateway with PLC (AC1365)                   | 1        | 1x Available              |                                                                                                     |
+| ICS          | Logic Module, Siemens LOGO! 12/24 RCE - 6ED1052-1MD08-0BA0             | 1        | 1x Available              |                                                                                                     |
+| ICS          | RTU, Siemens SICAM CMIC                                                | 1        | Unknown                   | [DiVA](https://www.diva-portal.org/smash/get/diva2:1477589/FULLTEXT01.pdf)                          |
+| ICS          | Startkit CPU 1212C + KTP400 Basic Siemens S7-1200 - 6AV6651-7KA02-3AA4 | 1        | 1x Available              |                                                                                                     |
+| IoT Gateways | IoKey AIK001 Wireless IoT Gateway                                      | 1        | 1x Available              |                                                                                                     |
+| IoT Gateways | IoT-startkit CloudRAIL.Box Set                                         | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Amazon Smart Plug                                                      | 1        | 1x Borrowed               |                                                                                                     |
+| Smart Home   | D-link DCS-5000L                                                       | 2        | 1x Available, 1x Borrowed | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf)                          |
+| Smart Home   | D-link DCS-932L                                                        | 1        | 1x Borrowed               | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf)                          |
+| Smart Home   | DLink WiFi Smart Plug                                                  | 1        | 1x Borrowed               |                                                                                                     |
+| Smart Home   | Dana Smart Lock V3                                                     | 2        | 2x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1534124/FULLTEXT01.pdf)                          |
+| Smart Home   | Deltaco SH-DB01 (Doorbell)                                             | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Deltaco SH-IPC02 (Smart Camera)                                        | 2        | 1x Available, 1x Borrowed | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-318551)                                    |
+| Smart Home   | E2 Classic Energy Monitor                                              | 1        | 1x Borrowed               |                                                                                                     |
+| Smart Home   | Echo Pop                                                               | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Eufy eufyCam 3 S330                                                    | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Glue Smart Lock                                                        | 2        | 1x Available, 1x Broken   | [DiVA](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1336796)                              |
+| Smart Home   | Jisiwei i3 Vacuum Cleaner                                              | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1329294/FULLTEXT01.pdf)                          |
+| Smart Home   | Meross Smart Elementtermostat Starter Kit                              | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-340391)                                    |
+| Smart Home   | Nedis Wi-Fi SmartLife Video Doorbell                                   | 1        | 1x Borrowed               |                                                                                                     |
+| Smart Home   | Nuki Bridge                                                            | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Nuki Opener                                                            | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Nuki Smart Lock 3.0                                                    | 1        | 1x Borrowed               |                                                                                                     |
+| Smart Home   | Ring Video Doorbell 3 Plus                                             | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325834)                                    |
+| Smart Home   | Roborock S7 Vacuum Cleaner                                             | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-313693)                                    |
+| Smart Home   | Samsung Smart Fridge DA9719112A                                        | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1596057/FULLTEXT01.pdf)                          |
+| Smart Home   | Securitas Alarm System                                                 | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1600180/FULLTEXT04.pdf)                          |
+| Smart Home   | Sesame Smart Lock                                                      | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325786)                                    |
+| Smart Home   | Sesame Wifi Acess Point                                                | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325786)                                    |
+| Smart Home   | Shelly TRV                                                             | 1        | 1x Borrowed               | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-340391)                                    |
+| Smart Home   | Sureflap IoT Cat Flap                                                  | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Sureflap Microchip 2-Pack                                              | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | TPLink Smart WiFi Plug                                                 | 1        | 1x Borrowed               |                                                                                                     |
+| Smart Home   | Tado Radiator Thermostat V3+ Startpaket                                | 1        | 1x Available, 1x Borrowed |                                                                                                     |
+| Smart Home   | Tapo C200 Pan/Tilt Home Security Wi-Fi Camera                          | 2        | 1x Available, 1xBorrowed  | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf)                          |
+| Smart Home   | Telldus Smart Home StartUp Kit                                         | 1        | Missing                   |                                                                                                     |
+| Smart Home   | Trifo Ironpie m6 Vacuum Cleaner                                        | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1450590/FULLTEXT01.pdf)                          |
+| Smart Home   | Trixie Foderautomat TX9 Smart                                          | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1561552/FULLTEXT01.pdf)                          |
+| Smart Home   | Verisure AlarmSystem                                                   | 1        | 1x Borrowed               | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf)                          |
+| Smart Home   | Verisure Smart Lock Module                                             | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf)                          |
+| Smart Home   | Wattle HCGATEWAYBASIC Boreas                                           | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Wattle SPL Touch                                                       | 1        | 1x Borrowed               |                                                                                                     |
+| Smart Home   | Xiaomi Mi Home Security Camera 360                                     | 2        | 1x Available, 1x Broken   | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1620625/FULLTEXT01.pdf)                          |
+| Smart Home   | YI dome X camera                                                       | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Yale Doorman L3                                                        | 1        | 1x Borrowed               |                                                                                                     |
+| Smart Home   | Yale Doorman V2N                                                       | 1        | 1x Borrowed               | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1533957/FULLTEXT01.pdf)                          |
+| Smart Home   | Ycoo Neo Maze Breaker                                                  | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Zigbee modul till Wattle SPL Touch                                     | 1        | 1x Missing                |                                                                                                     |
+| Smart Home   | iSmart Gate Cam                                                        | 2        | 1x Available, 1x Borrowed | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1464458/FULLTEXT01.pdf)                          |
+| Smart Home   | iSmart Gate Pro Smart Garage Opener                                    | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1464458/FULLTEXT01.pdf)                          |
+| Smart Home   | iSmart Gate Wireless tilt sensor                                       | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1464458/FULLTEXT01.pdf)                          |
+| Smart Home   | mydlink HD Pan & Tilt Wi-Fi Camera DCS-8515LH                          | 1        | 1x Available              |                                                                                                     |
+| Transport    | AutoPi smart car dongle                                                | 5        | 4x Available, 1x Borrowed | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1450555/FULLTEXT01.pdf)                          |
+| Transport    | AutoPi smart car power adapter                                         | 5        | 5x Available              |                                                                                                     |
+| Transport    | Connected Car - MG Marvel R LUX                                        | 1        | 1x Available              |                                                                                                     |
+| Transport    | DEFA Smart Alarm System                                                | 1        | 1x Available              |                                                                                                     |
+| Transport    | DJI Mini 2 Drönare                                                     | 1        | 1x Available              | [DiVA](https://www.diva-portal.org/smash/get/diva2:1607790/FULLTEXT01.pdf)                          |
+| Transport    | Drone - Ryze Tello Boost Combo                                         | 1        | 1x Borrowed               |                                                                                                     |
+| Transport    | OBDII Dongle                                                           | 1        | 1x Borrowed               | [DiVA](https://www.kth.se/polopoly_fs/1.914060.1600689132!/Ludvig%20and%20Daniel_final_dongles.pdf) |
+| Transport    | Parrot Anafi drone                                                     | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1484619/FULLTEXT01.pdf)                          |
+| Transport    | Xiaomi M365 Scooter                                                    | 1        | 1x Available              | [DiVA](https://www.diva-portal.org/smash/get/diva2:1334205/FULLTEXT01.pdf)                          |
+| Wearables    | Children’s smart watch                                                 | 1        | 1x Available              |                                                                                                     |
+| Wearables    | Forever CALL ME 2 KW-60 Smartwatch                                     | 1        | 1x Borrowed               |                                                                                                     |
+| Wearables    | Forever KW-300 (smart watch)                                           | 1        | 1x Available              |                                                                                                     |
+| Wearables    | Forever KW-50 Kids Watch                                               | 1        | 1x Borrowed               |                                                                                                     |
+| Wearables    | Garmin GPS Venu                                                        | 1        | 1x Borrowed               |                                                                                                     |
+| Wearables    | Garmin Vivoactive 4s                                                   | 1        | 1x Available              | [DiVA](https://www.diva-portal.org/smash/get/diva2:1612537/FULLTEXT01.pdf)                          |
+| Wearables    | Hövding v3                                                             | 1        | 1x Available              |                                                                                                     |
+| Wearables    | Mikamax GPS Tracker Watch - Child                                      | 1        | 1x Available              |                                                                                                     |
+| Wearables    | Q13 Children’s Smart Watch                                             | 1        | 1x Available              |                                                                                                     |
+| Wearables    | SennHeiser Momentum 3 Wireless Headphones                              | 1        | 1x Available              |                                                                                                     |
+| Wearables    | XPLORA 3S Smart watch                                                  | 2        | 1x Available, 1x Borrowed |                                                                                                     |
 
 ## Hacking tools
 
