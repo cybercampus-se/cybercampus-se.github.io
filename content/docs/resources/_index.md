@@ -74,7 +74,7 @@ Below is a list of IoT devices that you can borrow to hack.
 | Transport    | OBDII Dongle                                         | 1        | 1x Borrowed               | [DiVA](https://www.kth.se/polopoly_fs/1.914060.1600689132!/Ludvig%20and%20Daniel_final_dongles.pdf) |
 | Transport    | Parrot Anafi drone                                   | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1484619/FULLTEXT01.pdf)                          |
 | Transport    | Xiaomi M365 Scooter                                  | 1        | 1x Available              | [DiVA](https://www.diva-portal.org/smash/get/diva2:1334205/FULLTEXT01.pdf)                          |
-| Wearables    | Children’s smart watch                               | 1        | 1x Available              |                                                                                                     |
+| Wearables    | Children's smart watch                               | 1        | 1x Available              |                                                                                                     |
 | Wearables    | Forever CALL ME 2 KW-60 Smartwatch                   | 1        | 1x Borrowed               |                                                                                                     |
 | Wearables    | Forever KW-300 (smart watch)                         | 1        | 1x Available              |                                                                                                     |
 | Wearables    | Forever KW-50 Kids Watch                             | 1        | 1x Borrowed               |                                                                                                     |
@@ -82,7 +82,7 @@ Below is a list of IoT devices that you can borrow to hack.
 | Wearables    | Garmin Vivoactive 4s                                 | 1        | 1x Available              | [DiVA](https://www.diva-portal.org/smash/get/diva2:1612537/FULLTEXT01.pdf)                          |
 | Wearables    | Hövding v3                                           | 1        | 1x Available              |                                                                                                     |
 | Wearables    | Mikamax GPS Tracker Watch - Child                    | 1        | 1x Available              |                                                                                                     |
-| Wearables    | Q13 Children’s Smart Watch                           | 1        | 1x Available              |                                                                                                     |
+| Wearables    | Q13 Children's Smart Watch                           | 1        | 1x Available              |                                                                                                     |
 | Wearables    | SennHeiser Momentum 3 Wireless Headphones            | 1        | 1x Available              |                                                                                                     |
 | Wearables    | XPLORA 3S Smart watch                                | 2        | 1x Available, 1x Borrowed |                                                                                                     |
 
@@ -273,10 +273,10 @@ Below are other items, that don't fit into any other table.
 | Books         | Analysis Of Evidence - How to do things with facts based on Wigmore's Science of Judicial Proof                                     | 1        | Available              |
 | Books         | Basic Security Testing with Kali Linux 2                                                                                            | 1        | Missing                |
 | Books         | Ethical Hacking and Penetration Testing Guide                                                                                       | 1        | Missing                |
-| Books         | Gray Hat Hacking: The Ethical Hacker’s Handbook                                                                                     | 1        | 1x Available           |
+| Books         | Gray Hat Hacking: The Ethical Hacker's Handbook                                                                                     | 1        | 1x Available           |
 | Books         | Hacking and Penetration Testing                                                                                                     | 1        | Missing                |
 | Books         | IoT Penetration Testing Cookbook                                                                                                    | 1        | Missing                |
-| Books         | Kali Linux: An Ethical Hacker’s Cookbook                                                                                            | 1        | Missing                |
+| Books         | Kali Linux: An Ethical Hacker's Cookbook                                                                                            | 1        | Missing                |
 | Books         | Machines of Loving Grace - The Quest for Common Ground Between Humans and Robots                                                    | 1        | Available              |
 | Books         | Penetration Testing: A Hands-On Introduction to Hacking                                                                             | 1        | Missing                |
 | Books         | Permanent Record                                                                                                                    | 1        | Available              |
