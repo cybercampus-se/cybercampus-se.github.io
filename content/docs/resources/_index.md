@@ -43,8 +43,8 @@ Below is a list of IoT devices that you can borrow to hack.
 | Smart Home   | Sesame Smart Lock                                    | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325786)                                    |
 | Smart Home   | Sesame Wifi Acess Point                              | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325786)                                    |
 | Smart Home   | Shelly TRV                                           | 1        | 1x Borrowed               | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-340391)                                    |
-| Smart Home   | Sureflap IoT Cat Flap                                | 1        | 1x Available              |                                                                                                     |
-| Smart Home   | Sureflap Microchip 2-Pack                            | 1        | 1x Available              |                                                                                                     |
+| Smart Home   | Sureflap IoT Cat Flap                                | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-347753)                                    |
+| Smart Home   | Sureflap Microchip 2-Pack                            | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-347753)                                    |
 | Smart Home   | TPLink Smart WiFi Plug                               | 1        | 1x Borrowed               |                                                                                                     |
 | Smart Home   | Tado Radiator Thermostat V3+ Startpaket              | 1        | 1x Available, 1x Borrowed |                                                                                                     |
 | Smart Home   | Tapo C200 Pan/Tilt Home Security Wi-Fi Camera        | 2        | 1x Available, 1xBorrowed  | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1619459/FULLTEXT01.pdf)                          |
@@ -70,20 +70,20 @@ Below is a list of IoT devices that you can borrow to hack.
 | Transport    | Connected Car - MG Marvel R LUX                      | 1        | 1x Available              |                                                                                                     |
 | Transport    | DEFA Smart Alarm System                              | 1        | 1x Available              |                                                                                                     |
 | Transport    | DJI Mini 2 Drönare                                   | 1        | 1x Available              | [DiVA](https://www.diva-portal.org/smash/get/diva2:1607790/FULLTEXT01.pdf)                          |
-| Transport    | Drone - Ryze Tello Boost Combo                       | 1        | 1x Borrowed               |                                                                                                     |
+| Transport    | Drone - Ryze Tello Boost Combo                       | 1        | 1x Borrowed               | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-299887)                                   |
 | Transport    | OBDII Dongle                                         | 1        | 1x Borrowed               | [DiVA](https://www.kth.se/polopoly_fs/1.914060.1600689132!/Ludvig%20and%20Daniel_final_dongles.pdf) |
 | Transport    | Parrot Anafi drone                                   | 1        | 1x Available              | [DiVA](https://kth.diva-portal.org/smash/get/diva2:1484619/FULLTEXT01.pdf)                          |
 | Transport    | Xiaomi M365 Scooter                                  | 1        | 1x Available              | [DiVA](https://www.diva-portal.org/smash/get/diva2:1334205/FULLTEXT01.pdf)                          |
 | Wearables    | Children's smart watch                               | 1        | 1x Available              |                                                                                                     |
 | Wearables    | Forever CALL ME 2 KW-60 Smartwatch                   | 1        | 1x Borrowed               |                                                                                                     |
-| Wearables    | Forever KW-300 (smart watch)                         | 1        | 1x Available              |                                                                                                     |
+| Wearables    | Forever KW-300 (smart watch)                         | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-328235)                                    |
 | Wearables    | Forever KW-50 Kids Watch                             | 1        | 1x Borrowed               |                                                                                                     |
-| Wearables    | Garmin GPS Venu                                      | 1        | 1x Borrowed               |                                                                                                     |
+| Wearables    | Garmin GPS Venu                                      | 1        | 1x Borrowed               | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-305011)                                    |
 | Wearables    | Garmin Vivoactive 4s                                 | 1        | 1x Available              | [DiVA](https://www.diva-portal.org/smash/get/diva2:1612537/FULLTEXT01.pdf)                          |
-| Wearables    | Hövding v3                                           | 1        | 1x Available              |                                                                                                     |
-| Wearables    | Mikamax GPS Tracker Watch - Child                    | 1        | 1x Available              |                                                                                                     |
+| Wearables    | Hövding v3                                           | 1        | 1x Available              | [DiVa](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-322241)                                    |
+| Wearables    | Mikamax GPS Tracker Watch - Child                    | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-328235)                                    |
 | Wearables    | Q13 Children's Smart Watch                           | 1        | 1x Available              |                                                                                                     |
-| Wearables    | SennHeiser Momentum 3 Wireless Headphones            | 1        | 1x Available              |                                                                                                     |
+| Wearables    | SennHeiser Momentum 3 Wireless Headphones            | 1        | 1x Available              | [DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325666)                                    |
 | Wearables    | XPLORA 3S Smart watch                                | 2        | 1x Available, 1x Borrowed |                                                                                                     |
 
 ## Hacking tools
