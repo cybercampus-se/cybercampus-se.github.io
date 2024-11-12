@@ -5,7 +5,7 @@ weight: 1
 bookFlatSection: true
 ---
 
-# Our resources
+# Resources
 
 ## IoT devices
 

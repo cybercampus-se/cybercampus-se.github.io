@@ -26,8 +26,9 @@ Below is a list of available research topics.
 - [Memory Forensics](open/24-01-memory-forensics)
 - [National Cyber Threat Intelligence](open/24-04-cyber-threat-intelligence)
 - [Application Forensics](open/24-05-application-forensics)
+- [Locating Lost Devices](open/24-17-locating-lost-devices)
 
-## Artificial Intelligence
+## Artificial intelligence
 
 - [LLM Hacking (Prompt Injection)](open/24-08-llm-prompt-injection)
 - [Discovering Vulnerabilities in GPTs and Plugins](open/24-09-llm-hacking-gpts)

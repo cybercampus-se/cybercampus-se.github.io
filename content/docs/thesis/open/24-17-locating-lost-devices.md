@@ -1,5 +1,5 @@
 ---
-title: Finding lost devices
+title: Locating Lost Devices
 description: In the modern digital world, mobile and portable devices like smartphones, laptops, and tablets are essential assets, both personally and professionally. These devices often store sensitive data, and their loss or theft can lead to significant financial and privacy risks. While most tracking technologies depend on internet connectivity, many lost or stolen devices are often disconnected to prevent tracking. This research proposal outlines a study aimed at developing innovative techniques to identify the location of lost or stolen devices even when they are offline. The research will focus on analyzing various methods, including Bluetooth and Wi-Fi triangulation, signal signature recognition, and other location-tracking methodologies, to create a comprehensive tracking approach that can operate without internet connectivity..
 weight: 2
 bookFlatSection: true
