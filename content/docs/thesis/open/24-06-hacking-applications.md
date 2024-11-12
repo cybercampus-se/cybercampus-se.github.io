@@ -103,4 +103,5 @@ This research aims to enhance the security of mobile applications commonly used 
 2. Documentation and technical specifications of the selected applications (BankID, Alltid öppet, SL, Tempus).
 3. Research papers and articles on the integration of security practices in mobile application development and deployment.
 4. [Penetration Testing Ten Popular Swedish Android Applications](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1704891)
+5. [Hijacking accounts via BankID Session Fixation attack](https://mastersplinter.work/research/bankid/)
 

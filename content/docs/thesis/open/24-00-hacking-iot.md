@@ -123,3 +123,4 @@ This research aims to enhance the security of IoT devices by identifying and mit
 3. Research papers on cybersecurity challenges and vulnerabilities in IoT devices.
 4. Documentation on vulnerability assessment methodologies and penetration testing techniques.
 5. Existing studies on mitigation strategies and best practices for securing IoT ecosystems.
+6. [Security Cameras - A Penetration Tester's Journey](https://tobiabocchi.me/posts/ip-cam-pentester-journey/)
