@@ -288,18 +288,3 @@ Below are other items, that don't fit into any other table.
 | Other Devices | X-ray machine                                                                                                                       | 1        | 1x Used in Lab         |
 | TV            | Samsung 65inch 4K TV                                                                                                                | 1        | 1x Available           |
 | TV            | Samsung, white 1080p TV                                                                                                             | 1        |                        |
-| Theses        | A Bottom-Up Approach to Real-Time Search in Large Networks and Clouds - Misbah Uddin                                                | 1        | Available              |
-| Theses        | Bandwidth Limited Distributed Optimization with Applications to Networked Cyberphysical Systems - Sindri Magnússon                  | 1        | Available              |
-| Theses        | Bandwidth and Storage Allocation for Operator-Owned Content Management Systems - Valentino Pacifici                                 | 1        | Available              |
-| Theses        | Coexistance and Energy Efficiency in Wireless Networks - Ioannis Glaropoulus                                                        | 1        | Available              |
-| Theses        | Contributions to Performance Modeling and Management of Data Centers - Rerngvit Yanggratoke                                         | 1        | Available              |
-| Theses        | Cyber-security in Smart Grid Communication and Control - Ognjen Vuković                                                             | 1        | Available              |
-| Theses        | Data-driven Performance Prediction and Resource Allocation for Cloud Services - Rerngvit Yanggratoke                                | 1        | Available              |
-| Theses        | Distributed Processing of Visual Features in Wireless Sensor Networks - Emil Eriksson                                               | 1        | Available              |
-| Theses        | Opportunistic Networking: Mobility Modeling an Content Distribution - Ljubica Pajević                                               | 1        | Available              |
-| Theses        | Real-Time Search in Large Networks and Clouds - Misbah Uddin                                                                        | 1        | Available              |
-| Theses        | Resource Allocation in Operator-owned Content Delivery Systems - Valentino Pacifici                                                 | 1        | Available              |
-| Theses        | Secure and Privacy Preserving Urban Sensing Systems - Stylianos Gisdakis                                                            | 1        | Available              |
-| Theses        | Secure and Privacy Preserving Vehicular Communication Systems: Identity and Credential Management Infrastructure - Mohammed Khodaei | 1        | Available              |
-| Theses        | Spectral Efficiency and Fairness Maximization in Full-Duplex Cellular Networks - José Mairton Barros da Silva Júnior                | 1        | Available              |
-| Theses        | System Design for Opportunistic Networks - Sylvia Todorova Kouyoumdjieva                                                            | 1        | Available              |
