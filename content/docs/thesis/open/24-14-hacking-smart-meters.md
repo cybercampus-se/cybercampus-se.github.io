@@ -16,6 +16,9 @@ draft: true
 
 Smart meters are critical components of modern smart grid infrastructure, enabling real-time energy consumption monitoring and efficient energy management. However, their connectivity and integration with broader network systems expose them to cybersecurity risks. This research aims to identify and analyze vulnerabilities in smart meters, assess their potential impacts on the energy grid and consumers, and propose robust mitigation strategies. By enhancing the security of these critical devices, the study seeks to protect against potential cyber threats and ensure the reliability and integrity of smart grid systems.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -107,3 +110,5 @@ This research aims to enhance the security of smart meters by identifying and mi
 2. Research papers on cybersecurity challenges and vulnerabilities in critical infrastructure.
 3. Documentation on vulnerability assessment methodologies and penetration testing techniques.
 4. Existing studies on mitigation strategies and best practices for secure deployment of connected systems.
+
+</details>

@@ -10,10 +10,14 @@ bookHidden: true
 
 - **Thesis ID:** 24-02
 - **Research Proposal:** Vulnerability Research of Offpad Fingerprint-Based Authentication Solution by PONE Biometrics
+- **Collaboration company/organization:** [PONE Biometrics](https://ponebiometrics.com/)
 
 ## Abstract
 
 The advent of passwordless authentication mechanisms, such as the Offpad fingerprint-based authentication solution by PONE Biometrics, represents a significant leap in cybersecurity. Offpad, certified by the Fast Identity Online (FIDO) Alliance, aims to offer enhanced security by replacing traditional passwords with biometric passkeys. This research aims to conduct a comprehensive vulnerability assessment of the Offpad device, identifying potential security weaknesses and proposing enhancements to bolster its robustness against cyber threats.
+
+<details>
+<summary>Details</summary>
 
 ## 1. Introduction
 
@@ -91,3 +95,5 @@ This research aims to enhance the security of biometric authentication systems b
 1. Literature on biometric authentication and security.
 2. Documentation on the Offpad device and FIDO certification.
 3. Research papers and articles on vulnerability assessment methodologies.
+
+</details>

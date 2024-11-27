@@ -15,6 +15,9 @@ bookHidden: true
 
 In the modern digital world, mobile and portable devices like smartphones, laptops, and tablets are essential assets, both personally and professionally. These devices often store sensitive data, and their loss or theft can lead to significant financial and privacy risks. While most tracking technologies depend on internet connectivity, many lost or stolen devices are often disconnected to prevent tracking. This research proposal outlines a study aimed at developing innovative techniques to identify the location of lost or stolen devices even when they are offline. The research will focus on analyzing various methods, including Bluetooth and Wi-Fi triangulation, signal signature recognition, and other location-tracking methodologies, to create a comprehensive tracking approach that can operate without internet connectivity.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -110,3 +113,5 @@ This research proposal outlines a study aimed at developing an innovative soluti
 1. Literature on traditional and offline tracking methods, including Bluetooth, Wi-Fi, and signal fingerprinting.
 2. Documentation on the limitations of existing device-tracking solutions.
 3. Studies on the ethical and privacy implications of tracking technologies.
+
+</details>

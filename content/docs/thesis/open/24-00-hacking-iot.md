@@ -30,6 +30,9 @@ bookHidden: true
 
 The proliferation of Internet of Things (IoT) devices has transformed industries and everyday life by enabling seamless connectivity and automation. However, the rapid adoption of these devices has outpaced the development of robust security measures, leaving IoT devices vulnerable to a wide array of cyber threats. This research aims to systematically identify and analyze vulnerabilities in IoT devices, assess their potential impacts on users and networks, and propose effective mitigation strategies. By improving the security of IoT devices, this study seeks to safeguard against the growing threat landscape and contribute to the overall security of connected environments.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -124,3 +127,5 @@ This research aims to enhance the security of IoT devices by identifying and mit
 4. Documentation on vulnerability assessment methodologies and penetration testing techniques.
 5. Existing studies on mitigation strategies and best practices for securing IoT ecosystems.
 6. [Security Cameras - A Penetration Tester's Journey](https://tobiabocchi.me/posts/ip-cam-pentester-journey/)
+
+</details>

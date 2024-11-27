@@ -15,6 +15,9 @@ bookHidden: true
 
 Large Language Models (LLMs) such as GPT-3 and GPT-4 have become pivotal in various applications ranging from natural language processing to customer service automation. However, their deployment poses significant security risks, including data leaks, unauthorized access, and adversarial manipulation. This research proposes the development and evaluation of air-gapped LLMs as a robust security measure. By isolating LLMs from external networks, this study aims to mitigate security vulnerabilities, ensuring that sensitive data remains protected while maintaining the functionality and efficiency of the models.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -112,3 +115,5 @@ This research aims to enhance the security of Large Language Models by exploring
 2. Research papers on LLM security challenges and vulnerabilities.
 3. Documentation on air-gapping techniques and their effectiveness.
 4. Existing studies on mitigation strategies and best practices for secure deployment of machine learning models.
+
+</details>

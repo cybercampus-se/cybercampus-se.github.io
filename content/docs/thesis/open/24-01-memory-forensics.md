@@ -19,6 +19,9 @@ bookHidden: true
 
 Memory forensics is an essential aspect of cybersecurity, particularly in the investigation of advanced threats and malware that reside in the volatile memory of computing systems. As operating systems evolve, new memory management techniques and features are introduced, potentially affecting the effectiveness and accuracy of memory forensics tools and methodologies. This research focuses on conducting an in-depth analysis of memory forensics in the latest operating systems, specifically Windows 11. The study aims to identify and address challenges posed by Windows 11’s memory management architecture, evaluate existing memory forensic tools, and develop improved methodologies for extracting and analyzing volatile memory data. Leveraging the resources available in our laboratory, including access to modern hardware and software environments, this research will contribute to the enhancement of memory forensics practices in the context of contemporary operating systems.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -110,3 +113,5 @@ This research aims to advance the field of memory forensics by addressing the ch
 1. Existing literature on memory forensics and its application in digital investigations.
 2. Technical documentation and white papers on Windows 11’s memory management and security features.
 3. Research papers and studies evaluating memory forensic tools on previous versions of Windows.
+
+</details>

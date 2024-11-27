@@ -15,6 +15,9 @@ bookHidden: true
 
 Large Language Models (LLMs) such as GPT-3 and GPT-4, often enhanced by Reinforcement Learning from Human Feedback (RLHF), have become integral tools in natural language processing. RLHF aims to improve the safety and quality of LLM outputs by aligning them with human values and reducing harmful behaviors. However, adversaries might find ways to circumvent these protections, posing significant security risks. This research aims to identify methods of escaping RLHF protections in LLMs, evaluate the impact of such breaches, and propose mitigation strategies to strengthen the resilience of these models against adversarial manipulation.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -109,3 +112,5 @@ This research aims to enhance the security of Large Language Models by investiga
 5. [JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](https://arxiv.org/abs/2404.01318)
 6. [JailbreakBench Source code](https://github.com/JailbreakBench/jailbreakbench)
 7. [JailbreakBench Webpage](https://jailbreakbench.github.io/)
+
+</details>

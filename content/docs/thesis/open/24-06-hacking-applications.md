@@ -15,6 +15,9 @@ bookHidden: true
 
 The widespread use of mobile applications in everyday activities, such as banking, healthcare, public transportation, and scheduling, presents significant cybersecurity challenges. This research aims to conduct a comprehensive vulnerability assessment of popular mobile applications used in Sweden, including BankID, Alltid öppet, SL, and Tempus. The study will identify potential security weaknesses, evaluate their impacts, and propose mitigation strategies to enhance the security of these applications and protect user data.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -105,3 +108,4 @@ This research aims to enhance the security of mobile applications commonly used 
 4. [Penetration Testing Ten Popular Swedish Android Applications](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1704891)
 5. [Hijacking accounts via BankID Session Fixation attack](https://mastersplinter.work/research/bankid/)
 
+</details>

@@ -15,6 +15,9 @@ bookHidden: true
 
 Large Language Models (LLMs) have revolutionized the field of natural language processing, providing advanced capabilities in language understanding and generation. However, the increasing reliance on these models introduces new cybersecurity challenges. This research aims to investigate the vulnerabilities associated with LLMs, specifically focusing on prompt injection attacks using the Swedish language. By analyzing the security weaknesses and potential exploits in LLMs, the study aims to enhance the understanding of LLM vulnerabilities and propose mitigation strategies.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -109,3 +112,5 @@ This research aims to enhance the security of Large Language Models by investiga
 4. [Not what you've signed up for: Compromising real-world llm-integrated applications with indirect prompt injection](https://dl.acm.org/doi/abs/10.1145/3605764.3623985)
 5. [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/abs/2306.05499)
 6. [From prompt injections to sql injection attacks: How protected is your llm-integrated web application?](https://arxiv.org/abs/2308.01990)
+
+</details>

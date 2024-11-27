@@ -15,6 +15,9 @@ bookHidden: true
 
 Large Language Models (LLMs) like GPT-3 and GPT-4 have transformed the landscape of natural language processing, providing powerful tools for a wide range of applications. However, their complexity and widespread use also present significant security challenges. This research aims to identify and analyze vulnerabilities in GPT models and their associated plugins. By examining potential exploits and security weaknesses, the study will provide insights into improving the security and robustness of these models and their extensions.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -108,3 +111,5 @@ This research aims to enhance the security of Large Language Models and their pl
 2. Research papers on LLM vulnerabilities and security challenges.
 3. Documentation on plugin architectures and security assessment methodologies.
 4. Existing studies on mitigation strategies for software and machine learning model vulnerabilities.
+
+</details>

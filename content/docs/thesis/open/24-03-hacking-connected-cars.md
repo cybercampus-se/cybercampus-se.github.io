@@ -21,6 +21,9 @@ bookHidden: true
 
 The integration of internet connectivity in modern automobiles has transformed them into sophisticated connected cars, enhancing user experience and functionality. However, this advancement has also introduced a plethora of cybersecurity challenges. This research aims to conduct a comprehensive vulnerability assessment of connected cars, identifying potential security weaknesses, evaluating their impacts, and proposing mitigation strategies to enhance the security and resilience of these vehicles.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -97,3 +100,5 @@ This research aims to enhance the security of connected cars by identifying and 
 1. Literature on connected car technologies and cybersecurity.
 2. Documentation on automotive communication protocols and standards.
 3. Research papers and articles on vulnerability assessment methodologies and best practices.
+
+</details>

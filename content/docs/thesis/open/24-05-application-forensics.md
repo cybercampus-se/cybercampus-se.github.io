@@ -15,6 +15,9 @@ bookHidden: true
 
 With the widespread adoption of desktop and mobile applications such as BankID, Discord, Steam, and Stremio, the need for comprehensive digital forensics becomes increasingly critical. These applications handle sensitive data, making them attractive targets for cybercriminals. This research aims to investigate forensic methodologies for extracting, analyzing, and preserving evidence from popular desktop and mobile applications, focusing on identifying potential security vulnerabilities and enhancing forensic capabilities.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -107,3 +110,5 @@ This research aims to enhance the field of digital forensics by developing and v
 1. Literature on digital forensics and existing forensic methodologies.
 2. Documentation on forensic tools such as EnCase, Autopsy, and Cellebrite.
 3. Research papers and articles on security vulnerabilities in desktop and mobile applications.
+
+</details>

@@ -16,6 +16,9 @@ draft: true
 
 Smart insulin pumps represent a significant advancement in diabetes management, providing precise and automated insulin delivery to patients. However, their integration with wireless communication technologies exposes them to cybersecurity risks that can have severe consequences for patient health. This research aims to identify and analyze vulnerabilities in smart insulin pumps, assess their potential impacts, and propose robust mitigation strategies. By enhancing the security of these medical devices, the study seeks to protect patient safety and ensure the reliable operation of smart insulin pumps.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -109,3 +112,5 @@ This research aims to enhance the security of smart insulin pumps by identifying
 4. Existing studies on mitigation strategies and best practices for secure deployment of connected systems.
 5. [Secpump: A connected open-source infusion pump for security research purposes](https://ieeexplore.ieee.org/abstract/document/9031704/)
 6. [Investigating the security threats on networked medical devices](https://ieeexplore.ieee.org/abstract/document/9031212/)
+
+</details>

@@ -15,6 +15,9 @@ bookHidden: true
 
 The increasing complexity and frequency of cyber threats necessitate advanced, proactive defense mechanisms. This research proposes to enhance Sweden's national cyber threat intelligence capabilities by integrating AI-based technologies. The study aims to explore, develop, and implement AI-driven solutions for real-time threat detection, analysis, and mitigation, thereby strengthening Sweden's cyber resilience.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -94,3 +97,5 @@ This research aims to enhance Sweden’s national cyber threat intelligence capa
 3. Research papers and case studies on the integration of AI into national CTI frameworks.
 4. [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/html/2407.16928)
 5. [GPT-Powered MITRE ATT&CK Copilot](https://web.mitre-engenuity.org/hubfs/Cyber/Center%20for%20Threat%20Informed%20Defense/APAC%202024/15%20-%20Ng%20-%20GPT-Powered%20MITRE%20ATTACK%20CoPilot.pdf)
+
+</details>

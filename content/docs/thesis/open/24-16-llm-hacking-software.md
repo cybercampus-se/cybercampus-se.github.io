@@ -15,6 +15,9 @@ bookHidden: true
 
 The rapid advancement in artificial intelligence, particularly in the development of Large Language Models (LLMs) like GPT-3, GPT-4, and beyond, has opened new possibilities in various fields, including cybersecurity. These models, originally designed for natural language processing tasks, have shown potential in automating and enhancing cybersecurity processes, such as vulnerability discovery and exploitation. This research aims to explore the application of LLMs in the automated discovery and exploitation of software vulnerabilities. By leveraging the advanced pattern recognition and language generation capabilities of LLMs, this study seeks to assess the effectiveness of these models in identifying security flaws in software, generating exploit code, and potentially aiding in the creation of more secure software development practices. 
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -115,3 +118,5 @@ This research proposal outlines a comprehensive study on the application of Larg
 11. [Challenging Machine Learning Algorithms in Predicting Vulnerable JavaScript Functions](https://arxiv.org/html/2405.07213v1)
 12. [Large Language Model for Vulnerability Detection: Emerging Results and Future Directions](https://arxiv.org/abs/2401.15468)
 13. [OWASP LLM Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Vulnerable-LLM-Applications) <- **Train yourself**
+
+</details>

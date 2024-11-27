@@ -15,6 +15,9 @@ bookHidden: true
 
 The proliferation of Internet of Things (IoT) devices has revolutionized smart home technology, providing enhanced convenience and automation. However, the integration of these devices poses significant cybersecurity risks due to potential vulnerabilities that can be exploited by malicious actors. This research aims to conduct a comprehensive vulnerability assessment of smart homes by creating a testbed using IoT devices in our controlled Hacking Lab environment. The study will identify security weaknesses, evaluate their impacts, and propose mitigation strategies to enhance the security of smart home ecosystems.
 
+<details>
+<summary>Details</summary>
+
 ## 1. Introduction
 
 ### 1.1 Background
@@ -104,3 +107,5 @@ This research aims to enhance the security of smart homes by identifying and mit
 2. Documentation on vulnerability assessment methodologies for IoT devices.
 3. Research papers and articles on the integration of security practices in smart home ecosystems.
 4. [Survey on smart homes: Vulnerabilities, risks, and countermeasures](https://www.sciencedirect.com/science/article/pii/S016740482200075X)
+
+</details>

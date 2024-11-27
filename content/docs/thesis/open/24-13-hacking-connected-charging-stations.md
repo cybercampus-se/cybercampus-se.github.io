@@ -4,17 +4,21 @@ description: The widespread adoption of electric vehicles (EVs) has led to the r
 weight: 2
 bookFlatSection: true
 bookHidden: true
-draft: true
+# draft: true
 ---
 
 # Hacking Connected Charging Stations
 
 - **Thesis ID:** 24-13
 - **Research Proposal:** Vulnerability Research on Connected Charging Stations for Electric Vehicles
+- **Collaboration company/organization:** [EInRide](https://www.einride.tech/)
 
 ## Abstract
 
 The widespread adoption of electric vehicles (EVs) has led to the rapid deployment of connected charging stations. These stations are integral to supporting the EV ecosystem, offering convenience and accessibility to users. However, their connectivity also presents significant cybersecurity challenges. This research aims to identify and analyze vulnerabilities in connected charging stations, assess their potential impacts, and propose robust mitigation strategies. By enhancing the security of these critical infrastructures, this study seeks to protect against potential cyber threats that could disrupt the EV charging network and compromise user safety.
+
+<details>
+<summary>Details</summary>
 
 ## 1. Introduction
 
@@ -109,3 +113,6 @@ This research aims to enhance the security of connected charging stations for el
 4. Existing studies on mitigation strategies and best practices for secure deployment of connected systems.
 5. [Systematic survey of advanced metering infrastructure security: Vulnerabilities, attacks, countermeasures, and future vision](https://www.sciencedirect.com/science/article/pii/S0167739X22002254)
 6. [Threat models for vulnerability analysis of IoT devices for Manipulation of Demand attacks](https://ieeexplore.ieee.org/abstract/document/10205781/)
+7. [Vulnerability analysis of an electric vehicle charging ecosystem](https://www.ida.liu.se/labs/rtslab/publications/2023/roland.pdf)
+
+</details>
