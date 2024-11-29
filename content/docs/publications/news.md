@@ -1,7 +1,7 @@
 ---
 title: News from the lab
 description: Vulnerabilities diccovered.
-weight: 4
+weight: 10
 bookFlatSection: true
 draft: true
 ---
