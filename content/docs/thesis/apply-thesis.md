@@ -38,8 +38,9 @@ weight: 1
 - **Supervisor approval (for the proposal):** Yes/No (No if you do not have supervisor)
 - **Confirmation:** I have read and understood this page. The thesis topic I applied for is suitable for my qualifications.
 {{< hint warning >}}
-- **IMPORTANT:** Supervisor should be holding a PhD (PhD students can be co-supervisor)
-- **IMPORTANT:** If you are a bachelor's student, you can apply as a pair (2 students)
+  - Supervisor should be holding a PhD (PhD students can be co-supervisor)
+  - If you are a bachelor's student, you can apply as a pair (2 students)
+  - This is a template and the values are informative, do not keep informative texts in your submission 
 {{< /hint >}}
 
 ## Preparing proposal
@@ -48,9 +49,11 @@ weight: 1
 - Select a few of studies to replicate
 - Think of how to improve what you implemented
 - Write your proposal
-- Note that: We provide description (pre-proposal) of our researc topics
+{{< hint info >}}
+- Note that: We provide description (pre-proposal) of our research topics
   - It is just to learn what the research is about
   - You should develop your own proposal
+{{< hint info >}}
 
 ## Interviews
 
@@ -65,7 +68,7 @@ weight: 1
 
 ## Recommendations
 
-### Quality
+### 1 Experience
 
 - It is strongly recommended that students apply for job postings that they have **experience**.
   - You are not expected to be an expert, but you are expected to be experienced
@@ -75,17 +78,21 @@ weight: 1
 - Students should complete the preliminary work before the thesis work begins.
   - **IMPORTANT:** The proposal must include the preliminary work, for example
   - For a vulnerability research studies (i.e., ethical hacking) you need to include a complete threat model or attacks that will be performed
-  - For other studies the data should be collected
+  - For other studies the data should be collected in advance
 - We usually collaborate with companies in our research
   - If you develop your own porposal we also suggest you to find a company to collaborate
 
-### Publication
+### 2 Publication
 
 - The work you perform in our lab must be of a quality that can be published in a journal
 - Students who want to publish in a conferences/journals over others are prioritized
-- Publications are submitted to the conferences/journals that we approve
+  - Publications are submitted to the conferences/journals that we approve
+- As long as we have funding, we finance students producing publications
+  - Either during the study with a 20% paid work
+  - Or after the thesis study, by recruiting full time for 3 months
+  - Financial compansation is not fixed, changes depending on our current funds
 
-### Timeline
+### 3 Timeline
 
 - Students are strongly encouraged to begin research on the interested topic at least 6 months before the expected start of the study.
 - It is strongly recommended that students apply at least 3 months before the expected start of the study.
@@ -94,7 +101,13 @@ weight: 1
 
 ## Opportunities
 
-- Some students are offered to have a seat in our laboratory
-  - Students are selected based on various criteria (full-time study or publication desire)
-- Working in the lab provides a unique mentoring service (e.g., weekly meetings)
+- It is a privilage to complete thesis work in a research lab
+- Some students are offered to have a seats in our laboratory during the study
+  - Selected is based on various criteria (full-time study or publication desire)
+- Working in the lab provides a significant environment 
+  - A unique mentoring service (e.g., weekly meetings)
+  - Being a part of a team containing selected students
+- We may offer 3, 6, or up to 12 months of full time paid work after graduation (If we have funding)
+  - This is only valid for those who published a paper in the lab
+  - You will most likely extend your thesis work during this period
 - Help find PhD position/internship/first job
