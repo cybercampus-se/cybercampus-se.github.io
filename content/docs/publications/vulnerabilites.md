@@ -1,7 +1,7 @@
 ---
 title: Found vulnerabilities
 description: See the vulnerabilities found through work done at the Hacking Lab.
-weight: 4
+weight: 5
 bookFlatSection: true
 ---
 

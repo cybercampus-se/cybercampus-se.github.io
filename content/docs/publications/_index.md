@@ -1,7 +1,7 @@
 ---
 title: Publications
 description: Publications and theses from the Hacking Lab.
-weight: 3
+weight: 1
 bookFlatSection: true
 bookHidden: false
 ---
