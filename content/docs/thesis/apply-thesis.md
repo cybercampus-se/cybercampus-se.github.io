@@ -53,7 +53,7 @@ weight: 1
 - Note that: We provide description (pre-proposal) of our research topics
   - It is just to learn what the research is about
   - You should develop your own proposal
-{{< hint >}}
+{{< /hint >}}
 
 ## Interviews
 
