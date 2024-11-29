@@ -17,7 +17,7 @@ Below is a list of available research topics.
 - [Connected Car Hacking](open/24-03-hacking-connected-cars)
 - [Smart Home Hacking](open/24-07-hacking-smart-home)
 - [Mobile App Hacking](open/24-06-hacking-applications)
-<!-- - [IoT Hacking - Connected Charging Stations](open/24-13-hacking-connected-charging-stations) {{< suspended >}} -->
+- [IoT Hacking - Connected Charging Stations](open/24-13-hacking-connected-charging-stations) {{< Urgent >}}
 <!-- - [IoT Hacking - Smart Meter](open/24-14-hacking-smart-meters) {{< suspended >}} -->
 <!-- - [IoT Hacking - Smart Insulin Pump](open/24-15-hacking-smart-insulin-pump) -->
 
