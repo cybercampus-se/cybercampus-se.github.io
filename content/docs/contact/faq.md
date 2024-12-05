@@ -49,7 +49,7 @@ Note that due to high number of submission, we are able to evaluate only one sub
 <br>
 
 {{< details "Is master's work is paid job?" >}}
-Our master's thesis studies are not a paid job unless otherwise stated.
+Our master's thesis studies are not a paid job unless otherwise stated. If we collaborate with a company, they usually pay. But every company has their policy like every month or at the end of the study.
 {{< /details >}}
 <br>
 

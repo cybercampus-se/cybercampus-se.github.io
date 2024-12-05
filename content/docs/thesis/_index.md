@@ -27,6 +27,7 @@ Below is a list of available research topics.
 - [National Cyber Threat Intelligence](open/24-04-cyber-threat-intelligence)
 - [Application Forensics](open/24-05-application-forensics)
 - [Locating Lost Devices](open/24-17-locating-lost-devices)
+- [Windiws OS Forensics](open/24-19-os-forensics)
 
 ## Artificial intelligence
 
@@ -36,6 +37,7 @@ Below is a list of available research topics.
 - [Identifying Malicious Models](open/24-10-llm-malicious-models)
 - [Escaping RLHF Protections](open/24-11-llm-escaping-rlhf-protection)
 - [Building Air-Gapped LLMs](open/24-12-llm-air-gap)
+- [Building Cybersecurity LLMs](open/24-18-llm-cybersecurity)
 
 ## Interesting Topics
 
