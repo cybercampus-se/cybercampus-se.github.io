@@ -13,11 +13,12 @@ Below is a list of available research topics.
 ## Vulnerability research
 
 - [IoT Hacking - General](open/24-00-hacking-iot)  
-- [IoT Hacking - Pone Biometrics Offpad](open/24-02-hacking-pone-biometrics-offpad)  
+- [IoT Hacking - Pone Biometrics Offpad](open/24-02-hacking-pone-biometrics-offpad) {{< urgent >}}
 - [Connected Car Hacking](open/24-03-hacking-connected-cars)
 - [Smart Home Hacking](open/24-07-hacking-smart-home)
 - [Mobile App Hacking](open/24-06-hacking-applications)
 - [IoT Hacking - Connected Charging Stations](open/24-13-hacking-connected-charging-stations) {{< urgent >}}
+- [IoT Hacking - Smart Energy Gateway](open/25-01-hacking-smart-energy-gateways) {{< urgent >}}
 <!-- - [IoT Hacking - Smart Meter](open/24-14-hacking-smart-meters) {{< suspended >}} -->
 <!-- - [IoT Hacking - Smart Insulin Pump](open/24-15-hacking-smart-insulin-pump) -->
 
@@ -27,7 +28,7 @@ Below is a list of available research topics.
 - [National Cyber Threat Intelligence](open/24-04-cyber-threat-intelligence)
 - [Application Forensics](open/24-05-application-forensics)
 - [Locating Lost Devices](open/24-17-locating-lost-devices)
-- [Windiws OS Forensics](open/24-19-os-forensics)
+- [Windiws OS Forensics](open/24-19-os-forensics) {{< urgent >}}
 
 ## Artificial intelligence
 
