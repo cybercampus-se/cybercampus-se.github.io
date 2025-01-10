@@ -4,7 +4,7 @@ description: The proliferation of Internet of Things (IoT) devices has introduce
 weight: 2
 bookFlatSection: true
 bookHidden: true
-draft: true
+draft: false
 ---
 
 # Hacking Smart Energy Gateways
