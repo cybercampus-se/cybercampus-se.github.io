@@ -1,35 +1,35 @@
 ---
-title: Hacking Smart Energy Gateways
-description: The proliferation of Internet of Things (IoT) devices has introduced significant cybersecurity challenges. Among these devices, energy gateways like the CheckWatt CM10 play a pivotal role in energy metering and sensor data logging. Given their critical function, ensuring their security is paramount. This research aims to identify and exploit potential vulnerabilities in the CheckWatt CM10 to enhance its security posture.
+title: Hacking Raspberry Pi Compute Module
+description: The proliferation of Internet of Things (IoT) devices has introduced significant cybersecurity challenges. Majority of these devices are manufactured by using well-known boards like Raspberry Pi Compute Module. The mainboard, Raspberry Pi Compute Module, play a pivotal role in functioning of the devices Such devices are used in critical infrastructures. Given their critical function, ensuring their security is paramount. This research aims to identify and exploit potential vulnerabilities in the Raspberry Pi Compute Module to see the impact of the vulnerabilities. We will perform vulnerability research on a real device manufactured for energy metering as well as used in critical infrastructures.
 weight: 2
 bookFlatSection: true
 bookHidden: true
 draft: false
 ---
 
-# Hacking Smart Energy Gateways
+# Hacking Raspberry Pi Compute Module
 
 - **Thesis ID:** 25-01
-- **Research Proposal:** Analyzing and Exploiting IoT Vulnerabilities in the CheckWatt CM10 Energy Gateway
+- **Research Proposal:** Analyzing and Exploiting Vulnerabilities in the Raspberry Pi Compute Module
 
 ## Abstract
 
-The proliferation of Internet of Things (IoT) devices has introduced significant cybersecurity challenges. Among these devices, energy gateways like the CheckWatt CM10 play a pivotal role in energy metering and sensor data logging. Given their critical function, ensuring their security is paramount. This research aims to identify and exploit potential vulnerabilities in the CheckWatt CM10 to enhance its security posture.
+The proliferation of Internet of Things (IoT) devices has introduced significant cybersecurity challenges. Majority of these devices are manufactured by using well-known boards like Raspberry Pi Compute Module. The mainboard, Raspberry Pi Compute Module, play a pivotal role in functioning of the devices Such devices are used in critical infrastructures. Given their critical function, ensuring their security is paramount. This research aims to identify and exploit potential vulnerabilities in the Raspberry Pi Compute Module to see the impact of the vulnerabilities. We will perform vulnerability research on a real device manufactured for energy metering as well as used in critical infrastructures.
 
 <details>
 <summary>Details</summary>
 
 ## 1. Background
 
-The CheckWatt CM10 is a DIN rail-mounted gateway designed for metering and sensor data logging, facilitating automatic control through communication with CheckWatt cloud services via LAN and/or an internal 4G modem. It supports various communication protocols, including Modbus RTU, Modbus TCP, MQTT, and IEC 60870-5-103, and interfaces with devices such as energy meters, solar PV inverters, and temperature sensors. 
+The energy metering device that we test is a DIN rail-mounted gateway designed for metering and sensor data logging, facilitating automatic control through communication with cloud services via LAN and/or an internal 4G modem. It supports various communication protocols, including Modbus RTU, Modbus TCP, MQTT, and IEC 60870-5-103, and interfaces with devices such as energy meters, solar PV inverters, and temperature sensors. 
 
 ## 2. Problem Statement
 
-Despite its advanced features, the CheckWatt CM10, like many IoT devices, may harbor vulnerabilities that could be exploited by malicious actors, potentially compromising energy data integrity and user privacy. This research seeks to systematically identify and assess these vulnerabilities to bolster the device's security.
+Despite its advanced features, the Raspberry Pi Compute Module, like many IoT devices, may harbor vulnerabilities that could be exploited by malicious actors, potentially compromising energy data integrity and user privacy. This research seeks to systematically identify and assess these vulnerabilities to bolster the device's security.
 
 ## 3. Objectives
 
-- **Primary Objective**: Identify and exploit potential security vulnerabilities in the CheckWatt CM10 energy gateway.
+- **Primary Objective**: Identify and exploit potential security vulnerabilities in the Raspberry Pi Compute Module on an energy gateway.
 
 - **Secondary Objectives**:
   - Analyze the device's hardware and software architecture.
@@ -39,11 +39,11 @@ Despite its advanced features, the CheckWatt CM10, like many IoT devices, may ha
 
 ## 4. Literature Review
 
-Previous studies have highlighted common vulnerabilities in IoT devices, including weak authentication mechanisms, insecure communication protocols, and inadequate firmware protections. Research on energy gateways has underscored the critical need for robust security measures to prevent unauthorized access and data manipulation.
+Previous studies have highlighted common vulnerabilities in IoT devices, including weak authentication mechanisms, insecure communication protocols, and inadequate firmware protections. Research on Raspberry Pi Compute Module has underscored the critical need for robust security measures to prevent unauthorized access and data manipulation.
 
 ## 5. Research Methodology
 
-- **Device Acquisition**: Obtain a CheckWatt CM10 unit for hands-on analysis.
+- **Device Acquisition**: Obtain a Raspberry Pi Compute Module unit from the lab for hands-on analysis.
 
 - **Hardware Analysis**:
   - Inspect physical interfaces (e.g., Ethernet, RS-485, USB) for potential exploitation vectors.
@@ -67,7 +67,7 @@ Previous studies have highlighted common vulnerabilities in IoT devices, includi
 
 ## 6. Expected Outcomes
 
-- Comprehensive identification of vulnerabilities within the CheckWatt CM10.
+- Comprehensive identification of vulnerabilities within the Raspberry Pi Compute Module.
 - Demonstrated exploits highlighting potential security risks.
 - Detailed recommendations for improving the device's security.
 - Contribution to the broader field of IoT security research.
@@ -85,11 +85,10 @@ Previous studies have highlighted common vulnerabilities in IoT devices, includi
 
 ## 8. Conclusion
 
-This research will provide valuable insights into the security of the CheckWatt CM10 energy gateway, identifying potential vulnerabilities and offering recommendations to mitigate them. The findings will contribute to enhancing the security of IoT devices in the energy sector, safeguarding critical infrastructure and user data.
+This research will provide valuable insights into the security of the Raspberry Pi Compute Module embedded on an energy gateway, identifying potential vulnerabilities and offering recommendations to mitigate them. The findings will contribute to enhancing the security of IoT devices in the energy sector, safeguarding critical infrastructure and user data.
 
 ## 9. References
 
-- CheckWatt AB - *Datasheet CheckWatt CM10*.
 - Additional scholarly articles and resources on IoT security and vulnerability analysis. 
 
 </details>
