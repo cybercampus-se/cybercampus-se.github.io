@@ -16,6 +16,7 @@ bookHidden: false
 
 ## Supervised theses
 
+ - F. Zuber, [Hacking the airport X-ray machine](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1876534), 2024.
  - E. Wadell Ledin, [Security Evaluation of a High-assurance USB sanitation system](https://kth.diva-portal.org/smash/record.jsf?dswid=3396&pid=diva2:1901062), 2024.
  - F. Sannervik, [Beyond the Dashboard : Vulnerability analysis of the MG Marvel R In-Vehicle Infotainment System](https://kth.diva-portal.org/smash/record.jsf?dswid=3396&pid=diva2:1901062), 2024.
  - J. Öberg, [How safe is safe : Ethical hacking of Verisure’s home alarm system](https://kth.diva-portal.org/smash/record.jsf?dswid=3396&pid=diva2:1901062), 2024.
