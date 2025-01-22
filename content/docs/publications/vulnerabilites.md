@@ -7,7 +7,13 @@ bookFlatSection: true
 
 # Found vulnerabilities
 
-We have found a total of 45 CVE:s.
+We have found a total of 54 CVE:s.
+
+[CVE-2024-48126](https://nvd.nist.gov/vuln/detail/CVE-2024-48126) - HI-SCAN 6040i Hitrax HX-03-19-I was discovered to contain hardcoded credentials for access to vendor support and service access. Student: Felix Zuber, Supervisor: Emre Süren, Examiner: Pontus Johnson  
+[CVE-2024-48125](https://nvd.nist.gov/vuln/detail/CVE-2024-48125) - An issue in the AsDB service of HI-SCAN 6040i Hitrax HX-03-19-I allows attackers to enumerate user credentials via crafted GIOP protocol requests. Student: Felix Zuber, Supervisor: Emre Süren, Examiner: Pontus Johnson  
+[CVE-2024-48123](https://nvd.nist.gov/vuln/detail/CVE-2024-48123) - An issue in the USB Autorun function of HI-SCAN 6040i Hitrax HX-03-19-I allows attackers to execute arbitrary code via uploading a crafted script from a USB device. Student: Felix Zuber, Supervisor: Emre Süren, Examiner: Pontus Johnson  
+[CVE-2024-48122](https://nvd.nist.gov/vuln/detail/CVE-2024-48122) - Insecure default configurations in HI-SCAN 6040i Hitrax HX-03-19-I allow authenticated attackers with low-level privileges to escalate to root-level privileges. Student: Felix Zuber, Supervisor: Emre Süren, Examiner: Pontus Johnson  
+[CVE-2024-48121](https://nvd.nist.gov/vuln/detail/CVE-2024-48121) - The HI-SCAN 6040i Hitrax HX-03-19-I was discovered to transmit user credentials in cleartext over the GIOP protocol. This allows attackers to possibly gain access to sensitive information via a man-in-the-middle attack. Student: Felix Zuber, Supervisor: Emre Süren, Examiner: Pontus Johnson
 
 [CVE-2023-42143](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-42143) - Missing Integrity Check in Shelly TRV 20220811-152343/v2.1.8@5afc928c allows malicious users to create a backdoor by redirecting the device to an attacker-controlled machine which serves the manipulated firmware file. The device is updated with the manipulated firmware. Student: Adam Lindberg, Supervisor: Emre Süren, Examiner: Pontus Johnson
 
