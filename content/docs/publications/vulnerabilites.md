@@ -17,7 +17,7 @@ We have found a total of 54 CVE:s.
 
 [CVE-2023-42143](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-42143) - Missing Integrity Check in Shelly TRV 20220811-152343/v2.1.8@5afc928c allows malicious users to create a backdoor by redirecting the device to an attacker-controlled machine which serves the manipulated firmware file. The device is updated with the manipulated firmware. Student: Adam Lindberg, Supervisor: Emre Süren, Examiner: Pontus Johnson
 
-[CVE-2023-42144](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-42144)) - Cleartext Transmission in Shelly Shelly TRV 20220811-15234 v.2.1.8 allows a local attacker to obtain the Wi-Fi password. Student: Adam Lindberg, Supervisor: Emre Süren, Examiner: Pontus Johnson
+[CVE-2023-42144](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-42144) - Cleartext Transmission in Shelly Shelly TRV 20220811-15234 v.2.1.8 allows a local attacker to obtain the Wi-Fi password. Student: Adam Lindberg, Supervisor: Emre Süren, Examiner: Pontus Johnson
 
 [CVE-2023-46892](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-46892) - The radio frequency communication protocol being used by Meross MSH30Q 4.5.23 is vulnerable to replay attacks, allowing attackers to record and replay previously captured communication to execute unauthorized commands or actions (e.g., thermostat's temperature). Student: Adam Lindberg, Supervisor: Emre Süren, Examiner: Pontus Johnson
 
