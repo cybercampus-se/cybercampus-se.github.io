@@ -11,7 +11,7 @@ Royal Hacking Lab is a research laboratory operated under [Cybercampus Sverige](
 
 If you are a registered **student** (Bachelors, Master, Ph.D.) at a Swedish University, you are welcome to apply for a thesis study or benefiting from our lab infrastructure in the scope of academic research.
 
-{{< columns >}}
+{{% columns %}}
 ## [Apply for a thesis study](docs/thesis/)
 
 You can apply for a thesis study in our lab. 
@@ -24,7 +24,7 @@ Find our available [research topics](docs/thesis/) and supervisors.
 If you have a thesis topic and a supervisor, then you can apply for borrowing our devices. 
 Find our [IoT devices](docs/resources/#iot-devices) along with [hacking tools](docs/resources/#hacking-tools). 
 
-{{< /columns >}}
+{{% /columns %}}
 
 ## [Collaboration](docs/contact/)
 
