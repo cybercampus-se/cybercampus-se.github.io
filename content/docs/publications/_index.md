@@ -11,8 +11,8 @@ bookHidden: false
 
 ## Papers
 
-1. Süren, E., Heiding, F., Olegård, J., & Lagerström, R. (2023). **PatrIoT: practical and agile threat research for IoT.** *International Journal of Information Security*, 22(1), 213-233.
-2. Heiding, F., Süren, E., Olegård, J., & Lagerström, R. (2023). **Penetration testing of connected households.** *Computers & Security*, 126, 103067
+1. Süren, E., Heiding, F., Olegård, J., & Lagerström, R. (2023). [PatrIoT: practical and agile threat research for IoT.](https://link.springer.com/article/10.1007/s10207-022-00633-3) *International Journal of Information Security*, 22(1), 213-233.
+2. Heiding, F., Süren, E., Olegård, J., & Lagerström, R. (2023). [Penetration testing of connected households.](https://www.sciencedirect.com/science/article/pii/S016740482200459X) *Computers & Security*, 126, 103067
 3. E. Rencelj Ling et al., [Securing Communication and Identifying Threats in RTUs : A Vulnerability Analysis,\"](https://kth.diva-portal.org/smash/record.jsf?dswid=3396&pid=diva2:1901062) in ARES '22: Proceedings of the 17th International Conference on Availability, Reliability and Security, 2022.
 {reversed="reversed"}
 
