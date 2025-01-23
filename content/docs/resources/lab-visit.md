@@ -7,7 +7,7 @@ bookToc: false
 
 # Visiting the Lab
 
-{{< hint info >}}
+{{% hint info %}}
 - If you 
   - have not been provided with lab access and
   - want to pick up devices or
@@ -20,7 +20,7 @@ bookToc: false
   - **TO:** hackinglab@cybercampus.se
   - **CC:** Supervisor's e-mail
   - **Body:** Temporary visit form
-{{< /hint >}}
+{{% /hint %}}
 
 ## Temporary Visit Form Template
 

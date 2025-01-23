@@ -7,7 +7,7 @@ weight: 1
 
 # Thesis Application
 
-{{< hint info >}}
+{{% hint info %}}
 - If you 
   - do not have a supervisor and
   - want us to supervise you and
@@ -20,7 +20,7 @@ weight: 1
   - **TO:** hackinglab@cybercampus.se
   - **Body:** Thesis application form and [resource application form](/docs/resources/apply-resource)
   - **Attachments:** Your CV and your proposal
-{{< /hint >}}
+{{% /hint %}}
 
 ## Thesis Application Form Template
 
@@ -37,11 +37,11 @@ weight: 1
 - **Suggested Supervisor:** (Empty if you do not have supervisor)
 - **Supervisor approval (for the proposal):** Yes/No (No if you do not have supervisor)
 - **Confirmation:** I have read and understood this page. The thesis topic I applied for is suitable for my qualifications.
-{{< hint warning >}}
+{{% hint warning %}}
   - Supervisor should be holding a PhD (PhD students can be co-supervisor)
   - If you are a bachelor's student, you can apply as a pair (2 students)
   - This is a template and the values are informative, do not keep informative texts in your submission 
-{{< /hint >}}
+{{% /hint %}}
 
 ## Preparing proposal
 
@@ -49,11 +49,11 @@ weight: 1
 - Select a few of studies to replicate
 - Think of how to improve what you implemented
 - Write your proposal
-{{< hint info >}}
+{{% hint info %}}
 - Note that: We provide description (pre-proposal) of our research topics
   - It is just to learn what the research is about
   - You should develop your own proposal
-{{< /hint >}}
+{{% /hint %}}
 
 ## Interviews
 

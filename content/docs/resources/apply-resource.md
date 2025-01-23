@@ -7,7 +7,7 @@ bookFlatSection: true
 
 # Resource Application
 
-{{< hint info >}}
+{{% hint info %}}
 - If you 
   
   - have a supervisor and
@@ -22,7 +22,7 @@ bookFlatSection: true
   - **CC:** Supervisor's e-mail
   - **Body:** Form below
   - **Attachment:** Your approved version of proposal 
-{{< /hint >}}
+{{% /hint %}}
 
 ## Resource Application Form Template
 
@@ -38,10 +38,10 @@ bookFlatSection: true
 - **Supervisor:** Alice Johnson - "alice@example.se"
 - **Supervisor approval (for the proposal):** Yes/No
 
-{{< hint warning >}}
-- **IMPORTANT:** Supervisor should be holding a PhD (PhD students can be co-supervisor).
-- **IMPORTANT:** If you are going to perform IoT hacking, your proposal should include the complete threat model or attacks that will be performed.
-{{< /hint >}}
+{{% hint warning %}}
+**IMPORTANT:** Supervisor should be holding a PhD (PhD students can be co-supervisor).  
+**IMPORTANT:** If you are going to perform IoT hacking, your proposal should include the complete threat model or attacks that will be performed.
+{{% /hint %}}
 
 ### 2. Lab access
 
@@ -51,9 +51,9 @@ bookFlatSection: true
 - **Attendance:** How many days per week student *need to* attend lab?
 - **Purpose:** Explain why these accesses are needed and why research cannot be performed remotely or physically. You may consult the supervisor.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **IMPORTANT:** If a student extends his/her study, he/she should apply again for resource access, since we might have provisioned the devices to an upcoming student.
-{{< /hint >}}
+{{% /hint %}}
 
 ### 3. Borrowing IoT and/or Hacking device(s)
 
@@ -65,9 +65,9 @@ bookFlatSection: true
   - Ubertooth
 - **Supervisor approval for the devices requested:** Yes/No
 
-{{< hint warning >}}
+{{% hint warning %}}
 **IMPORTANT:** If a device is broken during the study, the student is responsible for communicating with the manufacturer for **warranty**.
-{{< /hint >}}
+{{% /hint %}}
 
 ### 4. Request for device purchase
 
@@ -82,9 +82,9 @@ bookFlatSection: true
   - 1400 Kr - Another smartwatch store (along with link to seller's page for the product)
 - **Supervisor approval for purchase:** Yes/No
 
-{{< hint warning >}}
+{{% hint warning %}}
 **IMPORTANT:** You need to provide the three best options.
-{{< /hint >}}
+{{% /hint %}}
 
 #### Hacking device(s) to be procured
 
@@ -107,7 +107,7 @@ bookFlatSection: true
   - acknowledging our lab and our supervisor in your thesis reports and publications: Yes/No 
   - reporting the Diva URL of the published thesis
 
-{{< hint info >}}
+{{% hint info %}}
 ### Recommendations
 It will be much easier for us to procure your device if you are diligent when filling out your proposal. Take the time now to make sure that your request is complete. That is the best way to expedite the process.
-{{< /hint >}}
+{{% /hint %}}
