@@ -31,7 +31,7 @@ Below is a list of IoT devices that you can borrow to hack.
 | Smart Home   | Security Camera - Eufy eufyCam 3 S330                | 1        | 1x Available              |                                                                                                     |
 | Smart Home   | Security Camera - Xiaomi Mi Home 360                 | 2        | 1x Available, 1x Broken   | [DiVA-21](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-306459)                          |
 | Smart Home   | Video Doorbell - Deltaco SH-DB01                     | 1        | 1x Available              |                                                                                                     |
-| Smart Home   | Video Doorbell - Nedis Wi-Fi SmartLife               | 1        | 1x Borrowed               |                                                                                                     |
+| Smart Home   | Video Doorbell - Nedis Wi-Fi SmartLife               | 1        | 1x Borrowed               | [DiVA-24](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-359419)                     |
 | Smart Home   | Video Doorbell - Ring 3 Plus                         | 1        | 1x Available              | [DiVA-23](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325834)                                    |
 | Smart Home   | Smart Lock Bluetooth - Dana V3                       | 2        | 2x Available              | [DiVA-21](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-291207)                          |
 | Smart Home   | Smart Lock WiFi - Glue                               | 2        | 1x Available, 1x Broken   | [DiVA-19](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-254962)                              |
@@ -75,9 +75,9 @@ Below is a list of IoT devices that you can borrow to hack.
 | Transport    | Drone - Parrot Anafi                                 | 1        | 1x Available              | [DiVA-20](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-284573)                          |
 | Transport    | Scooter - Xiaomi M365                                | 1        | 1x Available              | [DiVA-19](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-254613)                          |
 | Wearables    | Smart watch - Kids                                   | 1        | 1x Available              |                                                                                                     |
-| Wearables    | Smart watch - Forever CALL ME 2 KW-60 Kids           | 1        | 1x Borrowed               |                                                                                                     |
-| Wearables    | Smart watch - Forever KW-300 Kids                    | 1        | 1x Available              | [DiVA-23](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-328235)                                    |
-| Wearables    | Smart watch - Forever KW-50 Kids                     | 1        | 1x Borrowed               |                                                                                                     |
+| Wearables    | Smart watch - Forever CALL ME 2 KW-60 Kids           | 1        | 1x Borrowed               | [DiVA-24](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-359419)                     |
+| Wearables    | Smart watch - Forever KW-300 Kids                    | 1        | 1x Available              | [DiVA-23](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-328235)                               |
+| Wearables    | Smart watch - Forever KW-50 Kids                     | 1        | 1x Borrowed               | [DiVA-24](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-359419)         |
 | Wearables    | Smart watch - Garmin GPS Venu                        | 1        | 1x Borrowed               | [DiVA-21](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-305011)                                    |
 | Wearables    | Smart watch - Garmin Vivoactive 4s                   | 1        | 1x Available              | [DiVA-21](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-305011)                          |
 | Wearables    | Smart watch - Mikamax GPS Tracker Kids               | 1        | 1x Available              | [DiVA-23](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-328235)                                    |
