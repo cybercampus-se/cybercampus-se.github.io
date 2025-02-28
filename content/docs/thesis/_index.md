@@ -28,7 +28,7 @@ Below is a list of available research topics.
 - [National Cyber Threat Intelligence](open/24-04-cyber-threat-intelligence)
 - [Application Forensics](open/24-05-application-forensics)
 - [Locating Lost Devices](open/24-17-locating-lost-devices)
-- [Windiws OS Forensics](open/24-19-os-forensics) {{< urgent >}}
+- [Windows OS Forensics](open/24-19-os-forensics) {{< urgent >}}
 
 ## Artificial intelligence
 

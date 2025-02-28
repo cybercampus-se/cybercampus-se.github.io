@@ -118,5 +118,6 @@ This research proposal outlines a comprehensive study on the application of Larg
 11. [Challenging Machine Learning Algorithms in Predicting Vulnerable JavaScript Functions](https://arxiv.org/html/2405.07213v1)
 12. [Large Language Model for Vulnerability Detection: Emerging Results and Future Directions](https://arxiv.org/abs/2401.15468)
 13. [OWASP LLM Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Vulnerable-LLM-Applications) <- **Train yourself**
+14. [OWASP LLM Exploit Generation v1.0](https://genaisecurityproject.com/resource/owasp-llm-exploit-generation-v1-0-pdf/)
 
 </details>

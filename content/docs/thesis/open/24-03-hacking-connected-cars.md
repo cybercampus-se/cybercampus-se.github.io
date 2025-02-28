@@ -100,5 +100,6 @@ This research aims to enhance the security of connected cars by identifying and 
 1. Literature on connected car technologies and cybersecurity.
 2. Documentation on automotive communication protocols and standards.
 3. Research papers and articles on vulnerability assessment methodologies and best practices.
+4. [Car Hacking: For Poories](https://ioactive.com/wp-content/uploads/pdfs/IOActive_Car_Hacking_Poories.pdf)
 
 </details>
