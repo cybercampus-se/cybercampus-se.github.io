@@ -18,15 +18,15 @@ bookHidden: false
 
 ## Supervised theses
 
-1. L. Bergström and L. Linusson-Hahn, [Exploiting Vulnerabilities to Remotely Hijack Children's Smartwatches](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1933447), 2024.
-1. M. Siklosi and R. Kihlborg, [Security Analysis of Nedis SmartLife Video Doorbell](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1933445), 2024.
-1. F. Zuber, [Hacking the airport X-ray machine](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1876534), 2024.
+1. L. Bergström and L. Linusson-Hahn, [Exploiting Vulnerabilities to Remotely Hijack Children's Smartwatches](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-359420), 2024.
+1. M. Siklosi and R. Kihlborg, [Security Analysis of Nedis SmartLife Video Doorbell](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-359419), 2024.
+1. F. Zuber, [Hacking the airport X-ray machine](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-348491), 2024.
 1. E. Wadell Ledin, [Security Evaluation of a High-assurance USB sanitation system](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-353978), 2024.
 1. F. Sannervik, [Beyond the Dashboard: Vulnerability analysis of the MG Marvel R In-Vehicle Infotainment System](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-354549), 2024.
 1. J. Öberg, [How safe is safe: Ethical hacking of Verisure's home alarm system](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-354869), 2024.
-1. N. Shamaya and G. Tarcheh, [Strengthening Cyber Defense: A Comparative Study of Smart Home Infrastructure for Penetration Testing and National Cyber Ranges](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1869694), 2024.
-1. E. Mickols, [Memory corruption in IoT: Extending PatrIoT to hunt memory corruption bugs](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1888892), 2024.
-1. H. Höglund and R. Henareh, [Collaboration platform for penetration tests enhanced with machine learning](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1878717), 2024.
+1. N. Shamaya and G. Tarcheh, [Strengthening Cyber Defense: A Comparative Study of Smart Home Infrastructure for Penetration Testing and National Cyber Ranges](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-347732), 2024.
+1. E. Mickols, [Memory corruption in IoT: Extending PatrIoT to hunt memory corruption bugs](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-351806), 2024.
+1. H. Höglund and R. Henareh, [Collaboration platform for penetration tests enhanced with machine learning](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-348796), 2024.
 1. J. Henning, [Pentesting on a WiFi Adapter: A firmware and driver security analysis of a WiFi Adapter, with a subset of WiFi pentesting](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325157), 2023.
 1. A. Pétursson, [Ethical Hacking of a Ring Doorbell](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325834), 2023.
 1. O. Antal, [A cybersecurity audit of the Garmin Venu](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-327008), 2023.
@@ -37,18 +37,18 @@ bookHidden: false
 1. Y. Wang, [An Attribution Method for Alerts in an Educational Cyber Range based on Graph Database](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-343360), 2023.
 1. S. Feller, [A study of Oracle Cloud Infrastructure: Demonstration of the vulnerability or reliability of certain services through penetration attacks](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-344409), 2023.
 1. H. Stenhav, [Security evaluation of the Matrix Server-Server API](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-344443), 2023.
-1. D. Gustafsson, [Password habits of Sweden](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1751652), 2023.
+1. D. Gustafsson, [Password habits of Sweden](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325882), 2023.
 1. L. Manfredh, [Assessing the security of a Garmin Smartwatch through Ethical hacking](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-319897), 2022.
 1. J. Ingers and J. Sjöblom, [IoT Penetration Testing: Examining the cyber security of connected vehicles](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-320183), 2022.
 1. H. Mellin, [Determining whether the Hövding bicycle airbag is secure against cyber attacks](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-322241), 2022.
 1. T. Stroeven and F. Söderman, [Cybersecurity Evaluation of an IP Camera](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-323197), 2022.
 1. F. Huang, [Ethical hacking of Sennheiser smart headphones](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325666), 2022.
 1. A. Winkelmann, [Unauthorized Smart Lock Access: Ethical Hacking of Smart Lock Systems](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-325639), 2022.
-1. J. Slagarp and E. Häggström, [Trends and scientometrics in cyber security research](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1707874), 2022.
-1. F. Bolandi, [Automated Security Analysis of Firmware](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1704788), 2022.
-1. A. Astély and J. Ekroth, [Penetration Testing Ten Popular Swedish Android Applications](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1704891), 2022.
-1. J. Ekenblad and  S. Valenzuela, [Security evaluation of ten Swedish mobile applications](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1701868), 2022.
-1. F. Grönberg and B. Thiberg, [Integrating the Meta Attack Language in the Cybersecurity Ecosystem: Creating new Security Tools Using Attack Simulation Results](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1735970), 2022.
+1. J. Slagarp and E. Häggström, [Trends and scientometrics in cyber security research](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-320865), 2022.
+1. F. Bolandi, [Automated Security Analysis of Firmware](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-320355), 2022.
+1. A. Astély and J. Ekroth, [Penetration Testing Ten Popular Swedish Android Applications](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-320375), 2022.
+1. J. Ekenblad and  S. Valenzuela, [Security evaluation of ten Swedish mobile applications](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-319794), 2022.
+1. F. Grönberg and B. Thiberg, [Integrating the Meta Attack Language in the Cybersecurity Ecosystem: Creating new Security Tools Using Attack Simulation Results](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-323722), 2022.
 1. X. Liu, [Ethical Hacking of a Smart Video Doorbell](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-308839), 2021.
 1. D. Isabar, [Threat Modeling and Penetration Testing of a Yanzi IoT-system: A Survey on the Security of the system's RF communication](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-308580), 2021.
 1. N. Hjärne and I. Kols, [IoT Security Assessment of a Home Security Camera](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-308474), 2021.
@@ -73,6 +73,6 @@ bookHidden: false
 1. M. Florez Cardenas and G. Acar, [Ethical Hacking of a Smart Fridge: Evaluating the cybersecurity of an IoT device through gray box hacking](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-302373), 2021.
 1. J. Öberg, [Can a robot's confidentiality be trusted?](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-302369), 2021.
 1. A. Lindeberg, [Hacking Into Someone's Home using Radio Waves: Ethical Hacking of Securitas' Alarm System](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-302999), 2021.
-1. L. Carter, [Security Analysis of a Beckhoff CX-9020 Programmable Logic Controller](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1603740), 2021.
+1. L. Carter, [Security Analysis of a Beckhoff CX-9020 Programmable Logic Controller](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-303563), 2021.
 1. L.-E. Hamid and S. Möller, [How Secure is Verisure's Alarm System?](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-295618), 2020.
 {reversed="reversed"}
