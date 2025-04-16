@@ -9,7 +9,7 @@ bookFlatSection: true
 
 If you have a thesis topic and a supervisor, then you can apply for borrowing our devices. 
 Find our IoT devices along with hacking tools below.
-Select your devices and then fill out the form [here](apply-resource.md).
+Select your devices and then fill out the form [here](apply-resource).
 
 ## IoT devices
 

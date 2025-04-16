@@ -70,17 +70,17 @@ weight: 1
 
 ### 1 Experience
 
-- It is strongly recommended that students apply for job postings that they have **experience**.
+- It is strongly recommended that students apply for job postings that they have **experience**
   - You are not expected to be an expert, but you are expected to be experienced
   - If you do not have experience, you can prepare yourself in a few months and then apply
   - For a vulnerability research study (i.e., IoT hacking) you need to have experience hacking an IoT device
-  - For an LLM security study (i.e., Hacking with LLM) you need to have experience data sanitization (reducing token counts), fine tuning, LangChain, LangGraph, LLM assistant APIs, AI agents, Retrieval Augmented Generation (RAG), etc.
-- Students should complete the preliminary work before the thesis work begins.
+  - For an LLM security study (i.e., Hacking with LLM) you need to have experience data sanitization (reducing token counts), fine tuning, LangChain, LangGraph, LLM assistant APIs, Agents, RAG, MCP etc.
+- Students should complete the preliminary work before the thesis work begins
   - **IMPORTANT:** The proposal must include the preliminary work, for example
   - For a vulnerability research studies (i.e., ethical hacking) you need to include a complete threat model or attacks that will be performed
   - For other studies the data should be collected in advance
 - We usually collaborate with companies in our research
-  - If you develop your own porposal we also suggest you to find a company to collaborate
+  - If you develop your own proposal we also suggest you to find a company to collaborate
 
 ### 2 Publication
 
@@ -90,7 +90,7 @@ weight: 1
 - As long as we have funding, we finance students producing publications
   - Either during the study with a 20% paid work
   - Or after the thesis study, by recruiting full time for 3 months
-  - Financial compansation is not fixed, changes depending on our current funds
+  - Financial compensation is not fixed, changes depending on our current funds
 
 ### 3 Timeline
 
@@ -101,9 +101,9 @@ weight: 1
 
 ## Opportunities
 
-- It is a privilage to complete thesis work in a research lab
-- Some students are offered to have a seats in our laboratory during the study
-  - Selected is based on various criteria (full-time study or publication desire)
+- It is a privilege to complete thesis work in a research lab (particularly Royal Hacking Lab)
+- Some students are offered to have seats in our laboratory during the study
+  - Selection is based on various criteria (full-time study or publication desire)
 - Working in the lab provides a significant environment 
   - A unique mentoring service (e.g., weekly meetings)
   - Being a part of a team containing selected students

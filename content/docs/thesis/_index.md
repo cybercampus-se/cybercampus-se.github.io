@@ -9,7 +9,7 @@ bookFlatSection: true
 
 We welcome students to perform thesis studies in our Hacking Lab. 
 Below is a list of available research topics. 
-After you select your study topic, send you [application](apply-thesis.md).
+After selecting your study topic, you send your application [here](apply-thesis).
 
 ## Vulnerability research
 
