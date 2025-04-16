@@ -11,6 +11,7 @@ draft: false
 
 - **Thesis ID:** 25-01
 - **Research Proposal:** Analyzing and Exploiting Vulnerabilities in the Raspberry Pi Compute Module
+- **Collaboration company/organization:** Th1ng
 
 ## Abstract
 

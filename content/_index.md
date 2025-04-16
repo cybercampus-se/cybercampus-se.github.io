@@ -14,15 +14,10 @@ If you are a registered **student** (Bachelors, Master, Ph.D.) at a Swedish Univ
 {{% columns %}}
 ## [Apply for a thesis study](docs/thesis/)
 
-You can apply for a thesis study in our lab. 
-Find our available [research topics](docs/thesis/) and supervisors.
-
 <--->
 
 ## [Apply for resources](docs/resources/)
 
-If you have a thesis topic and a supervisor, then you can apply for borrowing our devices. 
-Find our [IoT devices](docs/resources/#iot-devices) along with [hacking tools](docs/resources/#hacking-tools). 
 
 {{% /columns %}}
 
