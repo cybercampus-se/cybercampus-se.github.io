@@ -84,6 +84,8 @@ bookHidden: false
 1. D. Galal and M. Tillberg, [Security Test of iZettle's Reader 2: A card terminal for safe payments?](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277913), 2020.
 1. A. Westman and F. Wilén, [IoT-lang : Threat Modeling for Internet of Things](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-295619), 2020.
 1. M. Berner, [Where’s My Car? Ethical Hacking of a Smart Garage](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280298), 2020.
+1. E. Good, [Security Analysis of a Siemens SICAM CMIC Remote Terminal Unit](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-284328), 2020.
+1. D. C. Ortiz, [Ethical Hacking Of An Industrial Control System](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-285573), 2020.
 1. L. Christensen and D. Dannberg, [Ethical hacking of IoT devices: OBD-II dongles](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-254571), 2019. 
 1. C. Robberts and J. Toft, [Finding Vulnerabilities in IoT Devices: Ethical Hacking of Electronic Locks](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-254667), 2019.
 1. A. Wallström and M. A. Omer, [Implementing Security Techniques to Lower the Probability of IoT-devices Getting Hacked](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-259359), 2019.
