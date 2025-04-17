@@ -6,7 +6,9 @@ bookFlatSection: true
 bookToc: false
 ---
 
-# Collaborating with companies and organizations
+# Collaboration
+
+- With companies and organizations
 
 ## Advantages
 

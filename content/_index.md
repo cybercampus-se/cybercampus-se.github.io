@@ -9,7 +9,7 @@ bookToc: false
 
 Royal Hacking Lab is a research laboratory operated under [Cybercampus Sverige](https://www.cybercampus.se/), National Cybersecurity Research Center.
 
-If you are a registered **student** (Bachelors, Master, Ph.D.) at a Swedish University, you are welcome to apply for a thesis study or benefiting from our lab infrastructure in the scope of academic research.
+If you are a registered **student** (Bachelors, Master) at a Swedish University, you are welcome to apply for a thesis study or benefiting from our lab infrastructure in the scope of academic research.
 
 {{% columns %}}
 ## [Apply for a thesis study](docs/thesis/)
@@ -21,6 +21,7 @@ If you are a registered **student** (Bachelors, Master, Ph.D.) at a Swedish Univ
 
 {{% /columns %}}
 
-## [Collaboration](docs/contact/)
+## [Collaborate with us](docs/contact/)
 
-If you are a **company** or a **Ph.D. student**, feel free to [contact](docs/contact/) us for research [collaboration](docs/contact/collaborators).
+If you are a **Ph.D. student, PostDoc, researcher or a professor**, feel free to [contact](docs/contact/) us.
+If you are a **company** review benefits of [collaboration](docs/contact/collaborators).
