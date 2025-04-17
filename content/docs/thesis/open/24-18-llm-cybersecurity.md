@@ -136,12 +136,12 @@ This research aims to harness the power of Large Language Models (LLMs) to advan
 
 ## 7. References
 
-1. MITRE CWE: [https://cwe.mitre.org/](https://cwe.mitre.org/)
-2. CVE Details: [https://www.cvedetails.com/](https://www.cvedetails.com/)
-3. HuggingFace Transformers: [https://huggingface.co/transformers/](https://huggingface.co/transformers/)
-4. Research papers on fine-tuning LLMs for domain-specific applications.
-5. Ethical guidelines for AI applications in sensitive domains like cybersecurity.
-6. https://huggingface.co/datasets/tumeteor/Security-TTP-Mapping?row=6
+1. [MITRE CWE](https://cwe.mitre.org/)
+2. [CVE Details](https://www.cvedetails.com/)
+3. [All open models | HuggingFace](https://huggingface.co/models?other=cybersecurity)
+4. [All Cybersecurity Datasets | HuggingFace](https://huggingface.co/datasets?other=cybersecurity)
+5. Research papers on fine-tuning LLMs for domain-specific applications.
+6. Ethical guidelines for AI applications in sensitive domains like cybersecurity.
 
 
 </details>
