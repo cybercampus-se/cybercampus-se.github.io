@@ -101,5 +101,6 @@ This research aims to enhance the security of connected cars by identifying and 
 2. Documentation on automotive communication protocols and standards.
 3. Research papers and articles on vulnerability assessment methodologies and best practices.
 4. [Car Hacking: For Poories](https://ioactive.com/wp-content/uploads/pdfs/IOActive_Car_Hacking_Poories.pdf)
+5. [Revving Up: The Journey to Pwn2Own Automotive 2024](https://www.nccgroup.com/media/h41lavk2/romhack-revving-up_the-journey-to-pwn2own-automotive-2024.pdf)
 
 </details>
