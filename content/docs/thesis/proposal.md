@@ -17,11 +17,11 @@ After developing your proposal, send it [here](apply-thesis).
 4. Think of how to improve what you implemented
 5. Write your proposal
 
-{{% /hint %}}
+{{% hint info %}}
 - Note that: We provide description (pre-proposal) of our research topics.
 - It is just to inform you about the research topic.
 - You should develop your own proposal.
-{{% hint info %}}
+{{% /hint %}}
 
 ## Common Mistakes
 
