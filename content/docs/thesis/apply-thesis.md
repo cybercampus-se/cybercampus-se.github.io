@@ -1,7 +1,7 @@
 ---
 title: Thesis application
 description: How to create and submit your thesis application.
-weight: 1
+weight: 2
 # bookToc: false
 ---
 
@@ -43,18 +43,6 @@ weight: 1
   - This is a template and the values are informative, do not keep informative texts in your submission 
 {{% /hint %}}
 
-## Preparing proposal
-
-- Read the literature
-- Select a few of studies to replicate
-- Think of how to improve what you implemented
-- Write your proposal
-{{% hint info %}}
-- Note that: We provide description (pre-proposal) of our research topics
-  - It is just to learn what the research is about
-  - You should develop your own proposal
-{{% /hint %}}
-
 ## Interviews
 
 - Applications are not evaluated immediately upon receipt
@@ -65,39 +53,6 @@ weight: 1
 - Those selected for supervision are informed within two weeks of the interviews
 - If we are unable to supervise you (e.g. if the quota is exceeded), we can inform you of possible supervisors
 - You can then use your proposal to apply for another supervisor
-
-## Recommendations
-
-### 1 Experience
-
-- It is strongly recommended that students apply for job postings that they have **experience**
-  - You are not expected to be an expert, but you are expected to be experienced
-  - If you do not have experience, you can prepare yourself in a few months and then apply
-  - For a vulnerability research study (i.e., IoT hacking) you need to have experience hacking an IoT device
-  - For an LLM security study (i.e., Hacking with LLM) you need to have experience data sanitization (reducing token counts), fine tuning, LangChain, LangGraph, LLM assistant APIs, Agents, RAG, MCP etc.
-- Students should complete the preliminary work before the thesis work begins
-  - **IMPORTANT:** The proposal must include the preliminary work, for example
-  - For a vulnerability research studies (i.e., ethical hacking) you need to include a complete threat model or attacks that will be performed
-  - For other studies the data should be collected in advance
-- We usually collaborate with companies in our research
-  - If you develop your own proposal we also suggest you to find a company to collaborate
-
-### 2 Publication
-
-- The work you perform in our lab must be of a quality that can be published in a journal
-- Students who want to publish in a conferences/journals over others are prioritized
-  - Publications are submitted to the conferences/journals that we approve
-- As long as we have funding, we finance students producing publications
-  - Either during the study with a 20% paid work
-  - Or after the thesis study, by recruiting full time for 3 months
-  - Financial compensation is not fixed, changes depending on our current funds
-
-### 3 Timeline
-
-- Students are strongly encouraged to begin research on the interested topic at least 6 months before the expected start of the study.
-- It is strongly recommended that students apply at least 3 months before the expected start of the study.
-- You are expected to spend at least 20 hours per week on our work during the study period. However, based on our experience, we recommend that you devote your full focus and time entirely to your thesis work.
-- We can only provide a tentative timeline for every project that is based on our experience, but the exact timeline depends on the qualifications and performance of the student.
 
 ## Opportunities
 

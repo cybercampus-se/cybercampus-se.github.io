@@ -7,9 +7,9 @@ bookFlatSection: true
 
 # Thesis topics
 
-We welcome students to perform thesis studies in our Hacking Lab. 
+We supervise students to perform thesis studies in our lab. 
 Below is a list of available research topics. 
-After selecting your study topic, you send your application [here](apply-thesis).
+After selecting a study topic, you [develop](develop) your proposal.
 
 ## Vulnerability research
 
