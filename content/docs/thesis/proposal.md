@@ -7,7 +7,7 @@ weight: 1
 
 # Developing Proposal Application
 
-After developing your proposal, send it [here](apply-thesis).
+After developing your proposal, follow this [manual](../apply-thesis) to submit it.
 
 ## Perform an exploratory (preliminary) research
 
