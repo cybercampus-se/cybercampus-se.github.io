@@ -35,39 +35,39 @@ Before starting your master's thesis, you must complete a **Research Methodology
 Since 2024, we have repeatedly seen poorly defined research questions in proposals. Notably, if you use our pre-proposal as input for tools like ChatGPT, you will likely receive similarly vague questions. Avoid this by developing specific, well-defined research questions tailored to your study.
 {{% /hint %}}
 
-### 1 What are the vulnerabilities of the device ABC?
+**1 What are the vulnerabilities of the device ABC?**
 
 - While discovering new vulnerabilities contributes to the literature, this question is too broad and lacks specificity regarding the context or scope. 
 - Simply applying existing tools and methods to identify vulnerabilities and reporting the results does not meet academic standards for a master's thesis. 
 - Instead, focus on identifying limitations in current approaches and proposing improvements on existing tools or novel techniques to address those gaps.
 
-### 2 What hardware-level and firmware-level vulnerabilities exist in the IoT device ABC?
+**2 What hardware-level and firmware-level vulnerabilities exist in the IoT device ABC?**
 
 - While identifying hardware and firmware vulnerabilities is important, this question is typically addressed during the evaluation phase of the thesis. 
 - For a strong proposal, main research questions should clearly refer to the methodology and implementation sections. 
 - Focus on specifying which aspects of hardware and firmware you will investigate, the techniques you will use, and how the approach advances current methods.
 
-### 3 What are the key components and interfaces in the hardware and software architecture of the IoT device ABC, and how do they influence its attack surface?
+**3 What are the key components and interfaces in the hardware and software architecture of the IoT device ABC, and how do they influence its attack surface?**
 
 - It is partly a preliminary research question and partly answered in the evaluation section.
 - While identifying the key components and interfaces is an essential step in understanding the device's architecture and potential weaknesses, this question is primarily addressed in a very early step, the information gathering phase. 
 - As it is a mandatory step in vulnerability research, one should not state it as a main research question. For a master's level thesis, the research question should go beyond mapping the attack surface and focus on analyzing functionalities. 
 - Consider refining the question to investigate how specific architectural features contribute to vulnerabilities, or how novel methods can be developed to discover weaknesses associated with these components and interfaces.
 
-### 4 Which communication protocols are used by the device ABC, and what vulnerabilities or weaknesses exist in their implementation or configuration?
+**4 Which communication protocols are used by the device ABC, and what vulnerabilities or weaknesses exist in their implementation or configuration?**
 
 - It is partly a preliminary research question and partly answered in the evaluation section.
 - While identifying and analyzing communication protocols is a necessary initial step in vulnerability research, this question is primarily focused on information gathering rather than forming a central research question. 
 - For a master's thesis, the main research question should go beyond listing protocols and their weaknesses. 
 - Instead, consider investigating how specific protocol implementations contribute to security risks, and propose an evaluation of novel methods for discovering vulnerabilities in these protocols. Aim to formulate a research question that addresses a gap in current approaches and demonstrates a clear contribution to the field.
 
-### 5 What built-in or third-party security measures are present on the IoT device ABC, and how effective are they against common attack vectors?
+**5 What built-in or third-party security measures are present on the IoT device ABC, and how effective are they against common attack vectors?**
 
 - While evaluating the security posture of the device is relevant, it is not our main focus.
 - Instead, use it to support the main research by analyzing the effectiveness of existing security measures as part of the evaluation. 
 - Consider refining the proposal to address how the research contributes to improving or assessing these security mechanisms in a novel way.
 
-### 6 What security enhancements can be proposed to harden the IoT device ABC against the identified vulnerabilities?
+**6 What security enhancements can be proposed to harden the IoT device ABC against the identified vulnerabilities?**
 
 - While proposing security enhancements is valuable, it is not our main concern. 
 - Instead, one may use it to support the main research by evaluating the effectiveness of the proposed solutions in mitigating specific vulnerabilities. 
