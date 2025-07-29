@@ -5,9 +5,9 @@ weight: 1
 # bookToc: false
 ---
 
-After developing your proposal, send it [here](apply-thesis).
-
 # Developing Proposal Application
+
+After developing your proposal, send it [here](apply-thesis).
 
 ## Perform an exploratory (preliminary) research
 
