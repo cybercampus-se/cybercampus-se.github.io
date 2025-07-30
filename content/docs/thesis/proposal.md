@@ -5,11 +5,13 @@ weight: 1
 # bookToc: false
 ---
 
-# Developing Proposal Application
+# Developing Proposal
 
 After developing your proposal, follow this [manual](../apply-thesis) to submit it.
 
-## Perform an exploratory (preliminary) research
+## Preliminary research
+
+You complete an exploratory research before drafting your proposal.
 
 1. Read the literature (current methods)
 2. Select a few good studies to replicate
@@ -94,7 +96,7 @@ When drafting a thesis proposal, consider including evaluation questions that de
 
 ## Recommendations
 
-### 1 Experience
+### 1 Why preliminary research is required?
 
 - It is strongly recommended that students apply for job postings in which they have **experience**
   - You are not expected to be an expert, but you are expected to be experienced
@@ -108,7 +110,7 @@ When drafting a thesis proposal, consider including evaluation questions that de
 - We usually collaborate with companies in our research
   - If you develop your own proposal we also suggest you to find a company to collaborate
 
-### 2 Publication
+### 2 Quality & Publication matters
 
 - The work you perform in our lab must be of a quality that can be published in a journal
 - Students who want to publish in a conferences/journals over others are prioritized
@@ -118,9 +120,11 @@ When drafting a thesis proposal, consider including evaluation questions that de
   - Or after the thesis study, by recruiting full time for 3 months
   - Financial compensation is not fixed, changes depending on our current funds
 
-### 3 Timeline
+### 3 Pace & Timeline
 
 - Students are strongly encouraged to begin research on the topic of interest at least 6 months before the expected start of the study.
 - It is strongly recommended that students apply at least 3 months before the expected start of the study.
 - You are expected to spend at least 20 hours per week on our work during the study period. However, based on our experience, we recommend that you devote your full attention and time to your thesis work.
 - We can only provide a tentative timeline for every project that is based on our experience, but the exact timeline depends on the qualifications and performance of the student.
+
+For more frequently asked [questions](../../contact/faq)

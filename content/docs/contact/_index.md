@@ -15,7 +15,7 @@ We were based at Teknikringen 33, then Hacking Lab joined Cybercampus Sverige in
 
 ## Current
 
-[Emre Süren](https://www.kth.se/profile/emsuren/?CC) served as a postdoctoral researcher at NSE division from 2020 to 2023, dedicating much of his time in the Hacking Lab to hacking IoT devices and developing an IoT hacking methodology. After completing his postdoctoral work, he transitioned to a researcher role at Cybercampus Sverige, where he is responsible for leading research activities at the Royal Hacking Lab as well as managing the lab infrastructure. 
+[Emre Süren](https://people.kth.se/~emsuren/?CC) served as a postdoctoral researcher at NSE division from 2020 to 2023, dedicating much of his time in the Hacking Lab to hacking IoT devices and developing an IoT hacking methodology. After completing his postdoctoral work, he transitioned to a researcher role at Cybercampus Sverige, where he is responsible for leading research activities at the Royal Hacking Lab as well as managing the lab infrastructure. 
 
 ## Contact
 

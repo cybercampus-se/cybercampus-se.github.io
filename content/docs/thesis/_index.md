@@ -9,7 +9,7 @@ bookFlatSection: true
 
 We supervise students to perform thesis studies in our lab. 
 Below is a list of available research topics. 
-After selecting a study topic, you [develop](proposal) your proposal.
+After selecting a study topic, [develop](proposal) your proposal.
 
 ## Vulnerability research
 
