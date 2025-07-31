@@ -23,5 +23,3 @@ If you are a registered **student** (Bachelors, Master) at a Swedish University,
 
 ## [Collaborate with us](docs/contact/)
 
-If you are a **Ph.D. student, PostDoc, researcher or a professor**, feel free to [contact](docs/contact/) us.
-If you are a **company** review benefits of [collaboration](docs/contact/collaborators).

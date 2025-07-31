@@ -18,8 +18,8 @@ Below are some frequently asked questions, along with our answers.
 - Working in the lab provides a significant environment 
   - A unique mentoring service (e.g., weekly meetings)
   - Being a part of a team containing selected students
-- We may offer 3, 6, or up to 12 months of full time paid work after graduation (If we have funding)
-  - This is only valid for those who published a paper in the lab
+- We may offer 2, 3, 6, or up to 12 months of full time paid work after thesis work (If we have funding)
+  - This is only valid for those who wants to publish a paper in the lab
   - You will most likely extend your thesis work during this period
 - Help find PhD position/internship/first job
 
@@ -60,32 +60,43 @@ Below are some frequently asked questions, along with our answers.
 -->
 
 {{% details "How long does to take to process temporary lab visit requests?" %}}
-We usually book a lab visit in 2 weeks.
+
+- We usually book a lab visit in 2 weeks.
+
 {{% /details %}}
 <br>
 
 {{% details "Why am I not getting response for my application?" %}}
-If you are not getting response in 4 weeks, you most probably did not apply properly, For example, you did not attach your proposal or CV.
+
+- If you are not getting response in 4 weeks, you most probably did not apply properly, For example, you did not attach your proposal or CV.
+
 {{% /details %}}
 <br>
 
 
 {{% details "I would like to hack a device that is not on your list of available devices" %}}
-We would first request that you look over the [list of exisiting devices]({{< ref "/docs/resources/#iot-devices" >}} "List of devices") and see if you can find *an equivalent device*. If you cannot, you can [request a device purchase]({{< ref "/docs/resources/apply-resource" >}} "Request a device purchase").
+
+- We would first request that you look over the [list of existing devices]({{< ref "/docs/resources/#iot-devices" >}} "List of devices") and see if you can find *an equivalent device*. If you cannot, you can [request a device purchase]({{< ref "/docs/resources/apply-resource" >}} "Request a device purchase").
+
 {{% /details %}}
 <br>
 
 {{% details "How many proposals can I submit for a thesis?" %}}
-Note that due to high number of submission, we are able to evaluate only one submission per student during his/her education career.
+
+- Note that due to high number of submission, we are able to evaluate only one submission per student during his/her education career.
+
 {{% /details %}}
 <br>
 
 {{% details "Is master's work is paid job?" %}}
-Our master's thesis studies are not a paid job unless otherwise stated. If we collaborate with a company, they usually pay. But every company has their policy like every month or at the end of the study.
+- Our master's thesis studies are not a paid job unless otherwise stated. If we collaborate with a company, they usually pay. Every company has their policy like paying every month or at the end of the study. 
+- Apart from that, we select best studies and offer at least 2 months full paid summer work to transform thesis work to an academic paper.
 {{% /details %}}
 <br>
 
 {{% details "Do you require Swedish citizenship?" %}}
-Our collaborators may require Swedish citizenship. However, we do not include this information on pre-proposals. That's why feel free to send your proposal. If we like it we can start a seperate study with you.
+
+- Our collaborators may require Swedish citizenship. However, we do not include this information on pre-proposals. That's why feel free to send your proposal. If we like it we can start a separate study with you.
+
 {{% /details %}}
 <br>
