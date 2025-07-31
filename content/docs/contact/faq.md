@@ -53,11 +53,11 @@ Below are some frequently asked questions, along with our answers.
 {{% /details %}}
 <br>
 
-<!--
-{{% details "How long does to take to process **thesis applications**?" %}}
+{{% details "Is master's work is paid job?" %}}
+- Our master's thesis studies are not a paid job unless otherwise stated. If we collaborate with a company, they usually pay. Every company has their policy like paying every month or at the end of the study. 
+- Apart from that, we select best studies and offer at least 2 months full paid summer work to transform thesis work to an academic paper.
 {{% /details %}}
 <br>
--->
 
 {{% details "How long does to take to process temporary lab visit requests?" %}}
 
@@ -85,12 +85,6 @@ Below are some frequently asked questions, along with our answers.
 
 - Note that due to high number of submission, we are able to evaluate only one submission per student during his/her education career.
 
-{{% /details %}}
-<br>
-
-{{% details "Is master's work is paid job?" %}}
-- Our master's thesis studies are not a paid job unless otherwise stated. If we collaborate with a company, they usually pay. Every company has their policy like paying every month or at the end of the study. 
-- Apart from that, we select best studies and offer at least 2 months full paid summer work to transform thesis work to an academic paper.
 {{% /details %}}
 <br>
 
