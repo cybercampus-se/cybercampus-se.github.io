@@ -10,7 +10,38 @@ bookToc: false
 
 Below are some frequently asked questions, along with our answers.
 
+{{% details "Why Royal Hacking Lab? Opportunities?" %}}
+
+- It is a privilege to complete thesis work in a research lab (particularly Royal Hacking Lab)
+- Some students are offered to have seats in our laboratory during the study
+  - Selection is based on various criteria (full-time study or publication desire)
+- Working in the lab provides a significant environment 
+  - A unique mentoring service (e.g., weekly meetings)
+  - Being a part of a team containing selected students
+- We may offer 3, 6, or up to 12 months of full time paid work after graduation (If we have funding)
+  - This is only valid for those who published a paper in the lab
+  - You will most likely extend your thesis work during this period
+- Help find PhD position/internship/first job
+
+{{% /details %}}
+<br>
+
+{{% details "I have sent my proposal, what is next?" %}}
+
+- Applications are not evaluated immediately upon receipt
+- Evaluation begins when a sufficient number of applications for a particular thesis are collected
+- The right candidate is then selected from the group of applicants
+- Selected candidates are invited to interviews
+- Interview dates are not set in advance
+- Those selected for supervision are informed within two weeks of the interviews
+- If we are unable to supervise you (e.g. if the quota is exceeded), we can inform you of possible supervisors
+- You can then use your proposal to apply for another supervisor
+
+{{% /details %}}
+<br>
+
 {{% details "How long does to take to process resource access applications?" %}}
+
 <!-- **It depends.** We generally process proposals in four weeks. This can however change depending on the completeness of your proposal and the time of year. By following our [proposal template]({{< ref "/docs/thesis#submit-your-proposal" >}} "Proposal template") diligently you help us process your proposal quickly. -->
 - We can process properly drafted submissions swiftly.
 - We usually grant card and key access in 2-3 weeks.
@@ -18,6 +49,7 @@ Below are some frequently asked questions, along with our answers.
 - We usually complete the procurement of a new device in 4-5 weeks.
 - Asking for the status of your submission can not speed up the process.
 - We are unable to get back to you timely about the mistakes (especially approvals and confirmations) in your submission.
+
 {{% /details %}}
 <br>
 

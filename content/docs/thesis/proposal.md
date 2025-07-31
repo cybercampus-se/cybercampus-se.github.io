@@ -104,7 +104,7 @@ When drafting a thesis proposal, consider including evaluation questions that de
 
 ## Recommendations
 
-## Collaboration
+### 1 Collaboration
 
 - If we collaborate with a company in a thesis topic, we state it in the proposal description
 - If the topic you selected does not involve a company, you are free to find one 
@@ -127,4 +127,4 @@ When drafting a thesis proposal, consider including evaluation questions that de
 - You are expected to spend at least 20 hours per week on our work during the study period. However, based on our experience, we recommend that you devote your full attention and time to your thesis work.
 - We can only provide a tentative timeline for every project that is based on our experience, but the exact timeline depends on the qualifications and performance of the student.
 
-Please also read frequently asked [questions](../../contact/faq)
+More questions? Check out the **frequently asked** [questions](../../contact/faq)

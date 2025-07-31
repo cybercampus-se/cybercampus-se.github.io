@@ -43,26 +43,6 @@ weight: 2
   - This is a template and the values are informative, do not keep informative texts in your submission 
 {{% /hint %}}
 
-## What is next? Interviews.
+## What is next?
 
-- Applications are not evaluated immediately upon receipt
-- Evaluation begins when a sufficient number of applications for a particular thesis are collected
-- The right candidate is then selected from the group of applicants
-- Selected candidates are invited to interviews
-- Interview dates are not set in advance
-- Those selected for supervision are informed within two weeks of the interviews
-- If we are unable to supervise you (e.g. if the quota is exceeded), we can inform you of possible supervisors
-- You can then use your proposal to apply for another supervisor
-
-## Why Royal Hacking Lab? Opportunities.
-
-- It is a privilege to complete thesis work in a research lab (particularly Royal Hacking Lab)
-- Some students are offered to have seats in our laboratory during the study
-  - Selection is based on various criteria (full-time study or publication desire)
-- Working in the lab provides a significant environment 
-  - A unique mentoring service (e.g., weekly meetings)
-  - Being a part of a team containing selected students
-- We may offer 3, 6, or up to 12 months of full time paid work after graduation (If we have funding)
-  - This is only valid for those who published a paper in the lab
-  - You will most likely extend your thesis work during this period
-- Help find PhD position/internship/first job
+**Frequently asked** [questions](../../contact/faq)
