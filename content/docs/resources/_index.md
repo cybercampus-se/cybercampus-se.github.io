@@ -1,7 +1,7 @@
 ---
 title: Resources
 description: List of our IoT devices, Hacking tools and other resources along with availability status.
-weight: 1
+weight: 3
 bookFlatSection: true
 ---
 

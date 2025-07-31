@@ -19,7 +19,7 @@ We were based at Teknikringen 33, then Hacking Lab joined Cybercampus Sverige in
 
 ## Contact
 
-hackinglab@cybercampus.se
+hackinglab at cybercampus dot se
 
 ## Base
 
