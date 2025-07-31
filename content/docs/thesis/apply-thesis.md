@@ -54,7 +54,7 @@ weight: 2
 - If we are unable to supervise you (e.g. if the quota is exceeded), we can inform you of possible supervisors
 - You can then use your proposal to apply for another supervisor
 
-## Why Royal Hacking Lab? Opportunities
+## Why Royal Hacking Lab? Opportunities.
 
 - It is a privilege to complete thesis work in a research lab (particularly Royal Hacking Lab)
 - Some students are offered to have seats in our laboratory during the study
