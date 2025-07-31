@@ -8,7 +8,7 @@ bookToc: false
 
 # Collaboration
 
-- If you are a **Ph.D. student, PostDoc, researcher or a professor**, feel free to [contact](docs/contact/) us, for joint activites.
+- If you are a **Ph.D. student, PostDoc, researcher or a professor**, feel free to [contact](../) us, for joint activities.
 - If you are a **company** review benefits of collaboration below.
 
 ## Advantages
