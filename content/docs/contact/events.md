@@ -8,5 +8,5 @@ bookHidden: false
 
 # Events and Activities
 
-As part of our research at royal Hacking Lab, we host organizations as well as present our work in events.
+As part of our research at Royal Hacking Lab, we host organizations as well as present our work in events.
 Find them a sample of them [here](https://people.kth.se/~emsuren/talks.html?CC).
