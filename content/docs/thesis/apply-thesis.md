@@ -20,6 +20,7 @@ weight: 2
   - **TO:** hackinglab@cybercampus.se
   - **Body:** Thesis application form and [resource application form](/docs/resources/apply-resource)
   - **Attachments:** Your CV and your proposal
+    - Include any security courses you completed and currently taking
 {{% /hint %}}
 
 ## Thesis Application Form Template
@@ -34,8 +35,10 @@ weight: 2
 - **Expected end of the study:** 2030-01-01 (If you are flexible state how much flexible you are)
 - **Workload:** 20 hours (How many hours per week on average you will work for this study)
 - **Peer-review publication:** Yes/No (If you will publish your thesis in a journal)
-- **Suggested Supervisor:** (Empty if you do not have supervisor)
+- **Suggested Supervisor:** Dr. Emre Süren
 - **Supervisor approval (for the proposal):** Yes/No (No if you do not have supervisor)
+- **Co-supervisor:** (Empty if you do not have supervisor)
+- **Co-supervisor approval (for the proposal):** Yes/No (No if you do not have co-supervisor)
 - **Confirmation:** I have read and understood this page. The thesis topic I applied for is suitable for my qualifications.
 {{% hint warning %}}
   - Supervisor should be holding a PhD (PhD students can be co-supervisor)
