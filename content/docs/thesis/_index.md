@@ -31,6 +31,7 @@ After selecting a study topic, [develop](proposal) your proposal.
 - [Windows OS Forensics](open/24-19-os-forensics) {{< urgent >}}
 - [Application Forensics](open/24-05-application-forensics)
 - [Locating Lost Devices](open/24-17-locating-lost-devices)
+- [Post-Travel Device Forensics](open/25-03-post-travel-forensics)
 
 ## Artificial Intelligence
 
