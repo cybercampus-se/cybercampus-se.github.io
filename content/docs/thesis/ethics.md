@@ -10,7 +10,7 @@ bookHidden: false
 
 The hacking carried out at Cybercampus' hacking lab is strictly ethical hacking. We do not accept using the tools we offer to carry out unapproved hacking attacks.
 
-## The law
+## The Law
 
 It is important to not break the law. Therefore, we need to understand it. There are at least five laws that are of concern for a (Swedish) hacker:
 

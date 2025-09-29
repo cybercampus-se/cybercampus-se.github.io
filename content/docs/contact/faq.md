@@ -6,7 +6,7 @@ bookFlatSection: true
 bookToc: false
 ---
 
-# Frequently asked questions
+# Frequently Asked Questions
 
 Below are some frequently asked questions, along with our answers.
 

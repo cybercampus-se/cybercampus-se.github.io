@@ -5,7 +5,7 @@ weight: 5
 bookFlatSection: true
 ---
 
-# Vulnerability discoveries
+# Vulnerability Discoveries
 
 1. [CVE-2024-34897](https://nvd.nist.gov/vuln/detail/CVE-2024-34897) - Nedis SmartLife android app v1.4.0 was discovered to contain an API key disclosure vulnerability. Student: Martin Siklosi & Robert Olsson Kihlborg, Supervisor: Pontus Johnson, Examiner: Anita Kullen  
 1. [CVE-2024-34896](https://nvd.nist.gov/vuln/detail/CVE-2024-34896) - An issue in Nedis SmartLife Video Doorbell (WIFICDP10GY), Nedis SmartLife IOS v1.4.0 causes users who are disconnected from a previous peer-to-peer connection with the device to still have access to live video feed. Student: Martin Siklosi & Robert Olsson Kihlborg, Supervisor: Pontus Johnson, Examiner: Anita Kullen  

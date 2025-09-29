@@ -46,6 +46,6 @@ weight: 2
   - This is a template and the values are informative, do not keep informative texts in your submission 
 {{% /hint %}}
 
-## What is next?
+## What is Next?
 
 **Frequently asked** [questions](../../contact/faq)
