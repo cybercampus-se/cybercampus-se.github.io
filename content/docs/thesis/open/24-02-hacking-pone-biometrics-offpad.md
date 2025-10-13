@@ -6,7 +6,7 @@ bookFlatSection: true
 bookHidden: true
 ---
 
-# IoT Hacking
+# IoT Hacking - Pone Biometrics Offpad
 
 - **Thesis ID:** 24-02
 - **Research Proposal:** Vulnerability Research of Offpad Fingerprint-Based Authentication Solution by PONE Biometrics
