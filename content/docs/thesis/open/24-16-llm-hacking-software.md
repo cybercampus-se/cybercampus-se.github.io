@@ -62,7 +62,7 @@ An exploration of the ethical implications of using AI, specifically LLMs, for v
 
 ### 3.2 Phase 2: LLM Training and Fine-Tuning
 
-1. **Model Selection**: Select and fine-tune existing LLMs (e.g., GPT-4, Codex) on the prepared dataset to focus on code analysis and vulnerability detection.
+1. **Model Selection**: Select and fine-tune existing LLMs (e.g., gpt-oss, Llama) on the prepared dataset to focus on code analysis and vulnerability detection.
 2. **Fine-Tuning for Exploitation**: Fine-tune the model further to understand exploitation techniques, using datasets of exploit code and corresponding vulnerabilities.
 
 ### 3.3 Phase 3: Vulnerability Discovery and Exploitation
