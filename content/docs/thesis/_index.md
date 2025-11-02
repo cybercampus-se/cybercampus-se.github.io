@@ -35,6 +35,7 @@ After selecting a study topic, [develop](proposal) your proposal.
 
 ## Artificial Intelligence
 
+- [Secure Vibe Coding](open/25-04-secure-vibe-coding)
 - [Discovering Software Vulnerabilities with LLMs](open/24-16-llm-hacking-software)
 - [Building Cybersecurity LLMs](open/24-18-llm-cybersecurity)
 - [LLM Hacking (Prompt Injection)](open/24-08-llm-prompt-injection)
