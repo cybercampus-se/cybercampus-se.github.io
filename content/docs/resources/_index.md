@@ -89,8 +89,8 @@ Below is a list of our available tools, along with information about if they are
 | Hacking Tools | Bus Pirate                                | 1        | 1x Borrowed                  |
 | Hacking Tools | CANUSB                                    | 1        | 1x Available                 |
 | Hacking Tools | DLink DIR-842 Router                      | 1        | 1x Borrowed                  |
-| Hacking Tools | Flipper Zero                              | 1        | 1x Borrowed                  |
-| Hacking Tools | Flipper Zero WiFi DevBoard                | 1        | 1x Borrowed                  |
+| Hacking Tools | Flipper Zero                              | 1        | 1x Available                 |
+| Hacking Tools | Flipper Zero WiFi DevBoard                | 1        | 1x Available                 |
 | Hacking Tools | HackRF One                                | 4        | 1x Available, 3x Borrowed    |
 | Hacking Tools | Hak5 Bash Bunny                           | 1        | 1x Available                 |
 | Hacking Tools | Hak5 Packet Squirrel                      | 2        | 2x Borrowed                  |
