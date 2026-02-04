@@ -58,6 +58,8 @@ Below is a list of IoT devices that you can borrow to hack.
 | Smart Home | iSmart Gate Pro Smart Garage Opener                   | 1x&nbsp;Available | [DiVA-20](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280298)                                                                     |
 | Smart Home | iSmart Gate Wireless Tilt Sensor                      | 1x&nbsp;Available | [DiVA-20](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280298)                                                                     |
 | Smart Home | tado Smart Radiator Thermostat V3+ Starter Kit        | 1x&nbsp;Available |                                                                                                                                         |
+| Smart Home | Motorola Baby Monitor PIP1510                         | 1x&nbsp Barrowed | |
+| Smart Home | Philips Avent Premium Connected Baby Monitor          | 1x&nbsp Barrowed | |
 | Transport  | AutoPi smart car dongle                               | 6x&nbsp;Available | [DiVA-19](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-254617) [DiVA-20](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-277914) |
 | Transport  | DEFA Smart Alarm System                               | 1x&nbsp;Available |                                                                                                                                         |
 | Transport  | Drone - DJI Mini 2                                    | 1x&nbsp;Borrowed  | [DiVA-20](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280096) [DiVA-21](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-304342) |
