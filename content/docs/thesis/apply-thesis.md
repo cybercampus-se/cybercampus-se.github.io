@@ -21,6 +21,7 @@ weight: 2
   - **Body:** Thesis application form, [resource application form](/docs/resources/apply-resource), Overleaf link to your [proposal](../proposal)
   - **Attachments:** Only your CV
     - Include any security courses you completed and currently taking
+    - GitHub account (mandatory)
 {{% /hint %}}
 
 ## Thesis Application Form Template
