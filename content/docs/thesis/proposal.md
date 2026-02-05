@@ -24,7 +24,7 @@ You complete an exploratory research before drafting your proposal.
 - It is just to inform you about the research topic.
 - You should develop your own proposal.
 - You can use the template provided by your school, otherwise you can follow your own template.
-- Title naming convention for your proposal: Abbreviation of your university - Abbreviation of your department - Abbreviation of your degree - Your name and surname
+- Overleaf filename of your proposal: Abbreviation of your university - Abbreviation of your department - Abbreviation of your degree - Your name and surname
   - Example: KTH - CS - MS - Emre Süren 
 {{% /hint %}}
 
