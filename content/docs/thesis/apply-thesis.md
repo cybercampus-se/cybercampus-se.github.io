@@ -18,8 +18,8 @@ weight: 2
 - Submit your request
   - **Subject:** [Thesis] Application - \<Thesis Topic\>
   - **TO:** hackinglab@cybercampus.se
-  - **Body:** Thesis application form and [resource application form](/docs/resources/apply-resource)
-  - **Attachments:** Your CV and your [proposal](../proposal)
+  - **Body:** Thesis application form, [resource application form](/docs/resources/apply-resource), Overleaf link to your [proposal](../proposal)
+  - **Attachments:** Only your CV
     - Include any security courses you completed and currently taking
 {{% /hint %}}
 
