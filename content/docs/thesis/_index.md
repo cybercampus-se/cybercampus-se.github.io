@@ -13,13 +13,13 @@ After selecting a study topic, [develop](proposal) your proposal.
 
 ## AI Red Teaming
 
-- [Discovering Software Vulnerabilities with LLMs](open/24-16-llm-hacking-software)
 - [LLM Hacking (Prompt Injection)](open/24-08-llm-prompt-injection)
+- [LLM Jailbreaking](open/24-11-llm-escaping-rlhf-protection)
+- [Discovering Software Vulnerabilities with LLMs](open/24-16-llm-hacking-software)
 - [Discovering Vulnerabilities in GPTs and Plugins](open/24-09-llm-hacking-gpts)
 - [Secure Vibe Coding](open/25-04-secure-vibe-coding)
 - [Building Cybersecurity LLMs](open/24-18-llm-cybersecurity)
 - [Identifying Malicious Models](open/24-10-llm-malicious-models)
-- [Escaping RLHF Protections](open/24-11-llm-escaping-rlhf-protection)
 - [Building Air-Gapped LLMs](open/24-12-llm-air-gap)
 
 ## Threat Intelligence & Digital Forensics  

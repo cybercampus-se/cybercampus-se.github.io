@@ -109,8 +109,10 @@ This research aims to enhance the security of Large Language Models by investiga
 2. Research papers on RLHF and its role in improving LLM safety.
 3. Documentation on LLM vulnerabilities and methods of circumventing protective mechanisms.
 4. Existing studies on mitigation strategies for software and machine learning model vulnerabilities.
-5. [JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](https://arxiv.org/abs/2404.01318)
-6. [JailbreakBench Source code](https://github.com/JailbreakBench/jailbreakbench)
-7. [JailbreakBench Webpage](https://jailbreakbench.github.io/)
+5. [Awesome LLM Security](https://github.com/beyefendi/awesome-llm-security)
+6. Prompt Injection & Jailbreaking [Course](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW)
+7. [JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](https://arxiv.org/abs/2404.01318)
+8. [JailbreakBench Source code](https://github.com/JailbreakBench/jailbreakbench)
+9. [JailbreakBench Webpage](https://jailbreakbench.github.io/)
 
 </details>

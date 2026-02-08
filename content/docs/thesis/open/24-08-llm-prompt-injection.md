@@ -109,8 +109,10 @@ This research aims to enhance the security of Large Language Models by investiga
 1. Literature on Large Language Models and their applications.
 2. Research papers on prompt injection attacks and existing mitigation strategies.
 3. Documentation on multilingual vulnerabilities in LLMs and their impact on cybersecurity.
-4. [Not what you've signed up for: Compromising real-world llm-integrated applications with indirect prompt injection](https://dl.acm.org/doi/abs/10.1145/3605764.3623985)
-5. [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/abs/2306.05499)
-6. [From prompt injections to sql injection attacks: How protected is your llm-integrated web application?](https://arxiv.org/abs/2308.01990)
+4. [Awesome LLM Security](https://github.com/beyefendi/awesome-llm-security)
+5. Prompt Injection & Jailbreaking [Course](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW)
+6. [Not what you've signed up for: Compromising real-world llm-integrated applications with indirect prompt injection](https://dl.acm.org/doi/abs/10.1145/3605764.3623985)
+7. [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/abs/2306.05499)
+8. [From prompt injections to sql injection attacks: How protected is your llm-integrated web application?](https://arxiv.org/abs/2308.01990)
 
 </details>
