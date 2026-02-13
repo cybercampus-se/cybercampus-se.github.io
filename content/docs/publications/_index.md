@@ -18,7 +18,7 @@ bookHidden: false
 
 ## Supervised theses
 
-1. RSV. Kundan, [A Penetration Testing and Vulnerability Analysis Approach: Examining Security Risks, Vulnerabilities, and Mitigation Strategies in Swedish Banking, Parking, Delivery, Transport, and Healthcare Apps](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-375905) 
+1. RSV. Kundan, [A Penetration Testing and Vulnerability Analysis Approach: Examining Security Risks, Vulnerabilities, and Mitigation Strategies in Swedish Banking, Parking, Delivery, Transport, and Healthcare Apps](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-375905), 2025 
 2. Y. Balannagari, [What are the most effective static analysis, dynamic analysis, and reverse engineering methodologies for identifying and evaluating security vulnerabilities in mobile applications?](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-375340), 2025
 3. P. Daniel, [Triggering False Alarms in Computer Networks: Evaluation of an Intrusion Detection System’s Performance in Accurately Distinguishing Attacks from Regular Computer Activity](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-369645), 2025. 
 4. T. Nilsson and L. Andersson, [External Threat Assessment and Internal Network Security Evaluation: A Penetration Test and Vulnerability Analysis of IVA’s Internal Infrastructure Against External Threats](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-367700), 2025.
