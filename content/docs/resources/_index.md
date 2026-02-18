@@ -174,22 +174,16 @@ Below is a list of our available hardware, along with information about if they 
 | Charging cable    | VDE-cable foreign input                             | 1        | 1x Missing                    |
 | Computer Mouses   | Dell, unknown models                                | 2        | 2x Available                  |
 | Computer Mouses   | SteelSeries Rival 600                               | 3        | 3x Used in lab                |
-| Computers         | Dell Desktop                                        | 1        | 1x Available                  |
-| Computers         | Dell Laptop, Latitude 7400 (Windows)                | 2        | 2x Available                  |
-| Computers         | Dell Laptop, Latitude 7410                          | 1        | 1x Available                  |
-| Computers         | Dell Laptop, Latitude E5570 (Ubuntu 16.0)           | 1        | 1x Available                  |
-| Computers         | Dell OptiPlex 7070                                  | 1        | 1x Available                  |
+| Computers         | Dell Latitude 7400                                  | 2        | 2x Available                  |
+| Computers         | Dell Latitude 7410                                  | 1        | 1x Used in lab                |
+| Computers         | Dell Latitude E5570                                 | 1        | 1x Available                  |
+| Computers         | Dell OptiPlex 7070                                  | 1        | 1x Used in lab                |
 | Computers         | HP EliteBook 840 G6                                 | 1        | 1x Available                  |
-| Computers         | HP EliteDesk                                        | 1        | 1x Available                  |
-| Computers         | IBM Thinkpad                                        | 1        | 1x Available                  |
-| Computers         | Kali Desktop (Lenovo IdeaCentre G5 14IMB05)         | 1        | 1x Used in lab                |
-| Computers         | Lenovo Laptop, Thinkpad E595                        | 1        | 1x Available                  |
+| Computers         | HP EliteDesk                                        | 1        | 1x Used in lab                |
+| Computers         | Lenovo IdeaCentre G5 14IMB05                        | 3        | 3x Used in lab                |
+| Computers         | Lenovo Thinkpad E595                                | 1        | 1x Borrowed                   |
 | Computers         | MacBook Pro (15-inch, 2018)                         | 1        | 1x Available                  |
-| Computers         | Macbook Pro                                         | 1        | 1x Broken                     |
 | Computers         | Raspberry Pi (with accessories)                     | 5        | 5x Used in lab, 1x Available  |
-| Computers         | Ubuntu Desktop (Lenovo IdeaCentre G5 14IMB05)       | 1        | 1x Used in lab                |
-| Computers         | Ubuntu Desktop partitioned with Kali                | 1        |                               |
-| Computers         | Windows Desktop (Lenovo IdeaCentre G5 14IMB05)      | 1        | 1x Used in lab                |
 | Hard Drives       | ADATA HD830 2.5" External HDD                       | 3        | 2x Available, 1x Borrowed     |
 | Hard Drives       | Kingston microSD 64GB Canvas Select Plus            | 1        | 1x Borrowed                   |
 | Keyboards         | Apple Keyboard                                      | 1        | 1x Available                  |
