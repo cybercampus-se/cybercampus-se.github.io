@@ -13,22 +13,22 @@ After selecting a study topic, [develop](proposal) your proposal.
 
 ## AI Red Teaming
 
-- [LLM Hacking (Prompt Injection)](open/24-08-llm-prompt-injection)
+- [**LLM Hacking (Prompt Injection)**](open/24-08-llm-prompt-injection)
 - [LLM Jailbreaking](open/24-11-llm-escaping-rlhf-protection)
 - [Discovering Software Vulnerabilities with LLMs](open/24-16-llm-hacking-software)
 - [Discovering Vulnerabilities in GPTs and Plugins](open/24-09-llm-hacking-gpts)
 - [Secure Vibe Coding](open/25-04-secure-vibe-coding)
-- [Building Cybersecurity LLMs](open/24-18-llm-cybersecurity)
 - [Identifying Malicious Models](open/24-10-llm-malicious-models)
-- [Building Air-Gapped LLMs](open/24-12-llm-air-gap)
+<!-- - [Building Cybersecurity LLMs](open/24-18-llm-cybersecurity)  -->
+<!-- - [Building Air-Gapped LLMs](open/24-12-llm-air-gap) -->
 
 ## Threat Intelligence & Digital Forensics  
 
-- [LLM-Powered Honeypots](open/25-02-llm-honeypot) {{< urgent >}}
-- [National Cyber Threat Intelligence](open/24-04-cyber-threat-intelligence) {{< urgent >}}
-- [Memory Forensics](open/24-01-memory-forensics)
+- [**LLM-Powered Honeypots**](open/25-02-llm-honeypot)
+- [National Cyber Threat Intelligence](open/24-04-cyber-threat-intelligence)
+<!-- - [Memory Forensics](open/24-01-memory-forensics) -->
 - [Post-Travel Device Forensics](open/25-03-post-travel-forensics)
-<!-- - [Windows OS Forensics](open/24-19-os-forensics) -->
+<!-- - [Windows OS Forensics](open/24-19-os-forensics) {{< urgent >}} -->
 <!-- - [Application Forensics](open/24-05-application-forensics) --> 
 <!-- - [Locating Lost Devices](open/24-17-locating-lost-devices) -->
 
