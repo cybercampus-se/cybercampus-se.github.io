@@ -26,8 +26,8 @@ After selecting a study topic, [develop](proposal) your proposal.
 
 - [**LLM-Powered Honeypots**](open/25-02-llm-honeypot)
 - [National Cyber Threat Intelligence](open/24-04-cyber-threat-intelligence)
-<!-- - [Memory Forensics](open/24-01-memory-forensics) -->
 - [Post-Travel Device Forensics](open/25-03-post-travel-forensics)
+<!-- - [Memory Forensics](open/24-01-memory-forensics) -->
 <!-- - [Windows OS Forensics](open/24-19-os-forensics) {{< urgent >}} -->
 <!-- - [Application Forensics](open/24-05-application-forensics) --> 
 <!-- - [Locating Lost Devices](open/24-17-locating-lost-devices) -->
