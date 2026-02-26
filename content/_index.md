@@ -21,5 +21,5 @@ If you are a registered **student** (Bachelors, Master) at a Swedish University,
 
 {{% /columns %}}
 
-## [Collaborate with us](docs/contact/)
+## [Collaborate with us](docs/contact/collaboration/)
 
