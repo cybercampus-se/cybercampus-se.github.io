@@ -30,7 +30,9 @@ bookToc: false
 - The funding we receive in exchange for our research helps us keep our laboratory running. You can contribute financing to our laboratory based on the scope of the research to be conducted for you.
   - We can perform master thesis study as a paid work (a good incentive to produce better results)
 - We are also eager to conduct long-term studies (3+ years) with companies, either by locating a researcher in our lab or on your side.
-- The funding we have received
+
+### The funding we have received
+
 - 2025 – 2026	| **NAISS - National Academic Infrastructure for Super-computing in Sweden**
   - 250 GPU-h/month + 1500 GiB Storage
   - Project:	Discovering Software Vulnerabilities with LLMs (NAISS 2026/4-49)
