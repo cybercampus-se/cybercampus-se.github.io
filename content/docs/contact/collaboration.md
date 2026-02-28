@@ -15,15 +15,13 @@ bookToc: false
 ## Advantages
 
 - We collaborate with companies and organizations in the region in the scope of our research projects.
-- We may produce solutions to the problems that your organization define. 
-- During the thesis period, the collaborator observes the performance of the student who implements the research. This provides you with potential employment that is evaluated with a 6 months of work.
-- In addition, we distribute job opening of the company in our e-mail groups and circle.
-  - Collaborators are also advertised as collaborators on our page
+- We produce solutions to the problems that organization define. 
+- During the thesis period, our partner observes the performance of the student who implements the research. This provides them with potential employment that is evaluated with a 6 months of work.
 
 ## Responsibilities
 
-- The collaborator is expected to participate in the study when we define the problem. You are welcome to submit potential solutions.
-- The collaborator bears no financial responsibility during the thesis research. 
+- Our partner is expected to participate in the study when we define the problem. Partners are welcome to submit potential solutions.
+- Our collaborator bears no financial responsibility during the thesis research. 
 
 ## Funding
 
@@ -31,13 +29,13 @@ bookToc: false
   - We can perform master thesis study as a paid work (a good incentive to produce better results)
 - We are also eager to conduct long-term studies (3+ years) with companies, either by locating a researcher in our lab or on your side.
 
-### The funding we have received
+### Granted funds
 
-- 2025 – 2026	| **NAISS - National Academic Infrastructure for Super-computing in Sweden**
-  - 250 GPU-h/month + 1500 GiB Storage
-  - Project:	Discovering Software Vulnerabilities with LLMs (NAISS 2026/4-49)
-  - PI: Dr. Emre Süren
 - 2026 – 2027	| **Digital Futures - Research Pairs**
   - 2,000,000 SEK (~0.18M €)
   - Project: CORTEX - An LLM-Driven Framework for Enhanced CTI through AI (KTH-RPROJ-0146472)
+  - PI: Dr. Emre Süren
+- 2025 – 2026	| **NAISS - National Academic Infrastructure for Super-computing in Sweden**
+  - 250 GPU-h/month + 1500 GiB Storage
+  - Project:	Discovering Software Vulnerabilities with LLMs (NAISS 2026/4-49)
   - PI: Dr. Emre Süren
