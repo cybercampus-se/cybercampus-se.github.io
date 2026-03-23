@@ -35,6 +35,7 @@ After selecting a study topic, [develop](proposal) your proposal.
 ## Vulnerability Research
 
 - [IoT Hacking - General](open/24-00-hacking-iot)  
+- [Wi-Fi Client Isolation Bypass](open/26-03-airsnitch-eduroam)
 - [IoT Hacking - Pone Biometrics Offpad](open/24-02-hacking-pone-biometrics-offpad)
 - [Connected Car Hacking](open/24-03-hacking-connected-cars)
 <!-- - [Smart Home Hacking](open/24-07-hacking-smart-home) -->
