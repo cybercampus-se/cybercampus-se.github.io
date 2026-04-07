@@ -122,10 +122,11 @@ This research aims to enhance the security of IoT devices by identifying and mit
 ## 7. References
 
 1. [PatrIoT: practical and agile threat research for IoT](https://link.springer.com/article/10.1007/s10207-022-00633-3)
-2. Literature on IoT devices and their applications across different domains.
-3. Research papers on cybersecurity challenges and vulnerabilities in IoT devices.
-4. Documentation on vulnerability assessment methodologies and penetration testing techniques.
-5. Existing studies on mitigation strategies and best practices for securing IoT ecosystems.
-6. [Security Cameras - A Penetration Tester's Journey](https://tobiabocchi.me/posts/ip-cam-pentester-journey/)
+2. [**PatrIoT's Pentesting Guidelines**](https://github.com/cybercampus-se/pentest-guidelines)
+3. Literature on IoT devices and their applications across different domains.
+4. Research papers on cybersecurity challenges and vulnerabilities in IoT devices.
+5. Documentation on vulnerability assessment methodologies and penetration testing techniques.
+6. Existing studies on mitigation strategies and best practices for securing IoT ecosystems.
+7. [Security Cameras - A Penetration Tester's Journey](https://tobiabocchi.me/posts/ip-cam-pentester-journey/)
 
 </details>
