@@ -1,6 +1,6 @@
 ---
-title: Colaboration and Funding
-description: The colaboration opportunities with organizations.
+title: Collaboration and Funding
+description: The collaboration opportunities with organizations.
 weight: 5
 bookFlatSection: true
 bookToc: false
