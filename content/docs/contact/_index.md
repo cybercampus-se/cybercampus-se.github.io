@@ -9,7 +9,7 @@ bookFlatSection: true
 
 ## Our History
 
-Hacking Lab was founded and sponsored by [Pontus Johnson](https://www.kth.se/profile/pontusj) at KTH Royal Institute of Technology in 2020. The lab was established to facilitate doctoral and postdoctoral research within the [NSE division](https://www.kth.se/cs/nse/research/software-systems-architecture-and-security/projects/ethical-hacking-1.1279219). Over time, we acquired numerous IoT devices, providing master's students with hands-on experience in ethical hacking for their theses.
+Hacking Lab was founded and sponsored by [Pontus Johnson](https://www.kth.se/profile/pontusj) at KTH Royal Institute of Technology in 2020. The lab was established to facilitate doctoral and postdoctoral research within the [NSE division](https://www.kth.se/nse/department-of-network-and-systems-engineering-1.790377). Over time, we acquired numerous IoT devices, providing master's students with hands-on experience in ethical hacking for their theses.
 
 We were based at Teknikringen 33, then Hacking Lab joined Cybercampus Sverige in early 2024 and relocated to Valhallavägen 79. To honor our origins, we rebranded as Royal Hacking Lab right after joining. Since then, Hacking Lab has been made available to all Swedish Universities. 
 
