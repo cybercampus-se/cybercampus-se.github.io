@@ -88,12 +88,12 @@ Below is a list of our available tools, along with information about if they are
 | Hacking Tools | IKEA smart switch Trådfri                 | 1        | 1x Borrowed                  |
 | Hacking Tools | ALFA Long-Range USB Adapter AWUS036NHA    | 1        | 1x Borrowed                  |
 | Hacking Tools | Asus AC1900 Dual Band Gigabit Router      | 2        | 1x Available, 1x Used in lab |
-| Hacking Tools | Bus Pirate                                | 1        | 1x Borrowed                  |
+| Hacking Tools | Bus Pirate                                | 1        | 2x Borrowed                  |
 | Hacking Tools | CANUSB                                    | 1        | 1x Available                 |
 | Hacking Tools | DLink DIR-842 Router                      | 1        | 1x Borrowed                  |
 | Hacking Tools | Flipper Zero                              | 1        | 1x Available                 |
 | Hacking Tools | Flipper Zero WiFi DevBoard                | 1        | 1x Available                 |
-| Hacking Tools | HackRF One                                | 4        | 1x Available, 3x Borrowed    |
+| Hacking Tools | HackRF One                                | 4        | 4x Borrowed                  |
 | Hacking Tools | Hak5 Bash Bunny                           | 1        | 1x Available                 |
 | Hacking Tools | Hak5 Packet Squirrel                      | 2        | 2x Borrowed                  |
 | Hacking Tools | Hak5 Rubber Ducky                         | 1        | 1x Available                 |
