@@ -88,7 +88,7 @@ Below is a list of our available tools, along with information about if they are
 | Hacking Tools | IKEA smart switch Trådfri                 | 1        | 1x Borrowed                  |
 | Hacking Tools | ALFA Long-Range USB Adapter AWUS036NHA    | 1        | 1x Borrowed                  |
 | Hacking Tools | Asus AC1900 Dual Band Gigabit Router      | 2        | 1x Available, 1x Used in lab |
-| Hacking Tools | Bus Pirate                                | 1        | 2x Borrowed                  |
+| Hacking Tools | Bus Pirate                                | 1        | 1x Borrowed                  |
 | Hacking Tools | CANUSB                                    | 1        | 1x Available                 |
 | Hacking Tools | DLink DIR-842 Router                      | 1        | 1x Borrowed                  |
 | Hacking Tools | Flipper Zero                              | 1        | 1x Available                 |
