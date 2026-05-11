@@ -35,7 +35,7 @@ bookToc: false
   - 2,000,000 SEK (~0.18M €)
   - Project: CORTEX - An LLM-Driven Framework for Enhanced CTI through AI (KTH-RPROJ-0146472)
   - PI: Dr. Emre Süren
-- 2025 – 2026	| **NAISS - National Academic Infrastructure for Super-computing in Sweden**
+- 2025 – 2026	| **NAISS - National Academic Infrastructure for Supercomputing in Sweden**
   - 250 GPU-h/month + 1500 GiB Storage
   - Project:	Discovering Software Vulnerabilities with LLMs (NAISS 2026/4-49)
   - PI: Dr. Emre Süren
