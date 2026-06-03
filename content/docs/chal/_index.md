@@ -2,6 +2,7 @@
 title: Midnight Sun Challenge
 description: Who's that curve?
 bookFlatSection: true
+bookToc: false
 weight: 8
 ---
 
